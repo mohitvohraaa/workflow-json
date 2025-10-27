@@ -1,0 +1,766 @@
+2025-10-27 17:13:40,152 - INFO - Starting OpenArt workflow scraper...
+2025-10-27 17:17:05,286 - INFO - WebDriver initialized successfully
+2025-10-27 17:17:05,287 - INFO - Phase 1: Collecting workflow URLs...
+2025-10-27 17:17:05,288 - INFO - Opening https://openart.ai/workflows/all
+2025-10-27 17:17:37,106 - INFO - Collected 75 unique workflow URLs so far...
+2025-10-27 17:17:39,293 - INFO - Collected 75 unique workflow URLs so far...
+2025-10-27 17:17:41,498 - INFO - Collected 75 unique workflow URLs so far...
+2025-10-27 17:17:43,782 - INFO - Collected 124 unique workflow URLs so far...
+2025-10-27 17:17:46,059 - INFO - Collected 124 unique workflow URLs so far...
+2025-10-27 17:17:48,471 - INFO - Collected 171 unique workflow URLs so far...
+2025-10-27 17:17:50,968 - INFO - Collected 171 unique workflow URLs so far...
+2025-10-27 17:17:53,390 - INFO - Collected 171 unique workflow URLs so far...
+2025-10-27 17:17:55,784 - INFO - Collected 171 unique workflow URLs so far...
+2025-10-27 17:17:58,198 - INFO - Collected 171 unique workflow URLs so far...
+2025-10-27 17:18:00,213 - WARNING - No new content after 5 attempts. Stopping scroll.
+2025-10-27 17:18:00,213 - INFO - Total unique workflow URLs collected: 171
+2025-10-27 17:18:00,213 - WARNING - Only found 171 workflows, less than target of 2000
+2025-10-27 17:18:00,213 - INFO - Phase 2: Downloading individual workflows...
+2025-10-27 17:18:00,213 - INFO - [1/171] Processing: https://openart.ai/workflows/challenges
+2025-10-27 17:18:30,219 - ERROR - Page load timeout for https://openart.ai/workflows/challenges
+2025-10-27 17:18:30,219 - INFO - [2/171] Processing: https://openart.ai/workflows/cat_untimely_42/kontext-omniconsistency-lora-22-styles/PNTzT7e2IzpZUu07dW6c
+2025-10-27 17:18:39,859 - INFO - Downloaded and saved as workflow_2.json
+2025-10-27 17:18:39,859 - INFO - [3/171] Processing: https://openart.ai/workflows/snake_bitter_32/1111/bFdF9WiBMYCHaVHal07c
+2025-10-27 17:18:47,160 - INFO - Downloaded and saved as workflow_3.json
+2025-10-27 17:18:47,160 - INFO - [4/171] Processing: https://openart.ai/workflows/yangbaiwan/one-click-to-generate-ultraman-funny-type-pictures/X9Hkj8tFheaaP8yXbmCE
+2025-10-27 17:18:59,641 - INFO - Downloaded and saved as workflow_4.json
+2025-10-27 17:18:59,641 - INFO - [5/171] Processing: https://openart.ai/workflows/t8star/fluxkontextdevv1/SFs7KZuLNzkVLf22Tixb
+2025-10-27 17:19:07,749 - INFO - Downloaded and saved as workflow_5.json
+2025-10-27 17:19:07,749 - INFO - [6/171] Processing: https://openart.ai/workflows/salamander_enormous_93/simple-flux1-dev-workflow/3u9shs2gAzsS88lmuCeO
+2025-10-27 17:19:16,003 - INFO - Downloaded and saved as workflow_6.json
+2025-10-27 17:19:16,004 - INFO - [7/171] Processing: https://openart.ai/workflows/faborohacks/qwen-edit-2509-backgroud-change/7cqYJqpBteinjaK3IyXt
+2025-10-27 17:19:25,471 - INFO - Downloaded and saved as workflow_7.json
+2025-10-27 17:19:25,471 - INFO - [8/171] Processing: https://openart.ai/workflows/armadillo_spirited_1/oneobsess-mature-repaint-r1/7DJhNiFNswIQID5YwfRG
+2025-10-27 17:19:33,880 - INFO - Downloaded and saved as workflow_8.json
+2025-10-27 17:19:33,881 - INFO - [9/171] Processing: https://openart.ai/workflows/datou/flux1-kontext-dev/sEHyIrzaHy7vSH3G7wq1
+2025-10-27 17:19:48,977 - INFO - Downloaded and saved as workflow_9.json
+2025-10-27 17:19:48,978 - INFO - [10/171] Processing: https://openart.ai/workflows/@umbrellabird_rosy_75/id/ajm1EqSMnvEUWRW7ET0F
+2025-10-27 17:19:52,304 - WARNING - Download button not found for https://openart.ai/workflows/@umbrellabird_rosy_75/id/ajm1EqSMnvEUWRW7ET0F
+2025-10-27 17:19:52,304 - INFO - [11/171] Processing: https://openart.ai/workflows/mista_creta/ollamakillerlowvramimage2prompt-text-prompt-master-setup-updated-sdxl/nrAff7uRH4v0BpHBswVN
+2025-10-27 17:20:09,893 - INFO - Downloaded and saved as workflow_11.json
+2025-10-27 17:20:09,893 - INFO - [12/171] Processing: https://openart.ai/workflows/myaiforce/diffbir-super-resolution/eqI2GLbp6jplHBvkskT3
+2025-10-27 17:20:17,790 - INFO - Downloaded and saved as workflow_12.json
+2025-10-27 17:20:17,790 - INFO - [13/171] Processing: https://openart.ai/workflows/@betterthanyouandyouknowit/id/QdlsJunw09kUJDEL0Wl8
+2025-10-27 17:20:21,180 - WARNING - Download button not found for https://openart.ai/workflows/@betterthanyouandyouknowit/id/QdlsJunw09kUJDEL0Wl8
+2025-10-27 17:20:21,180 - INFO - [14/171] Processing: https://openart.ai/workflows/@amumu/id/C1n5zNiaSwIkTDQySCY4
+2025-10-27 17:20:25,037 - WARNING - Download button not found for https://openart.ai/workflows/@amumu/id/C1n5zNiaSwIkTDQySCY4
+2025-10-27 17:20:25,037 - INFO - [15/171] Processing: https://openart.ai/workflows/@risunobushi/id/WACvQIFeIBBMDfy1tKuQ
+2025-10-27 17:20:35,243 - WARNING - Download button not found for https://openart.ai/workflows/@risunobushi/id/WACvQIFeIBBMDfy1tKuQ
+2025-10-27 17:20:35,243 - INFO - [16/171] Processing: https://openart.ai/workflows/possum_yawning_10/image-caption-generator-using-florence-2-microsoft-vision-language-model/6yWfJRls83pG7uwGU3xC
+2025-10-27 17:20:43,122 - INFO - Downloaded and saved as workflow_16.json
+2025-10-27 17:20:43,123 - INFO - [17/171] Processing: https://openart.ai/workflows/@synergyq/id/wJEy4b1Yi1yqqDB3UPJ4
+2025-10-27 17:20:46,363 - WARNING - Download button not found for https://openart.ai/workflows/@synergyq/id/wJEy4b1Yi1yqqDB3UPJ4
+2025-10-27 17:20:46,363 - INFO - [18/171] Processing: https://openart.ai/workflows/liubai/lora/Ww7Q3SAvg2fDjRzYlSXP
+2025-10-27 17:20:57,007 - INFO - Downloaded and saved as workflow_18.json
+2025-10-27 17:20:57,007 - INFO - [19/171] Processing: https://openart.ai/workflows/elephant_substantial_15/icedit_flux_01/mVx8idoJUtyimi0YrOid
+2025-10-27 17:21:05,685 - INFO - Downloaded and saved as workflow_19.json
+2025-10-27 17:21:05,685 - INFO - [20/171] Processing: https://openart.ai/workflows/terrier_alarming_47/simple-sdxl-workflow/ISANAbhWZedHWFx7tBYX
+2025-10-27 17:21:13,525 - INFO - Downloaded and saved as workflow_20.json
+2025-10-27 17:21:13,525 - INFO - [21/171] Processing: https://openart.ai/workflows/oztrkoguz/creative-clothing-making-and-virtual-try-on/zPyVmtBNSXlQkMwfhjSr
+2025-10-27 17:21:21,609 - INFO - Downloaded and saved as workflow_21.json
+2025-10-27 17:21:21,610 - INFO - [22/171] Processing: https://openart.ai/workflows/openart/batch-generation-workflow/YibsziaM9wW4Oze1iDwP
+2025-10-27 17:21:29,448 - INFO - Downloaded and saved as workflow_22.json
+2025-10-27 17:21:29,449 - INFO - [23/171] Processing: https://openart.ai/workflows/cockroach_golden_27/test/faPWjCQLCvh43thhDx8c
+2025-10-27 17:21:38,156 - INFO - Downloaded and saved as workflow_23.json
+2025-10-27 17:21:38,156 - INFO - [24/171] Processing: https://openart.ai/workflows/sexygirl/strong-body-impact/Z41dFHnzA7rgXOpIMac5
+2025-10-27 17:21:58,816 - INFO - Downloaded and saved as workflow_24.json
+2025-10-27 17:21:58,816 - INFO - [25/171] Processing: https://openart.ai/workflows/neuralunk/-/tiHMvp2yRIyf65ocqJRJ
+2025-10-27 17:22:06,411 - INFO - Downloaded and saved as workflow_25.json
+2025-10-27 17:22:06,411 - INFO - [26/171] Processing: https://openart.ai/workflows/@terrier_alarming_47/id/kFKwd0UUI6CiH8UaUysT
+2025-10-27 17:22:09,558 - WARNING - Download button not found for https://openart.ai/workflows/@terrier_alarming_47/id/kFKwd0UUI6CiH8UaUysT
+2025-10-27 17:22:09,558 - INFO - [27/171] Processing: https://openart.ai/workflows/flounder_bowed_50/kontext-pixel-to-pixel/MfeBas1ZASF88IxoaCdo
+2025-10-27 17:22:17,332 - INFO - Downloaded and saved as workflow_27.json
+2025-10-27 17:22:17,333 - INFO - [28/171] Processing: https://openart.ai/workflows/@yangbaiwan/id/SlAvsoE1BQQUL3j8uh6w
+2025-10-27 17:22:21,120 - WARNING - Download button not found for https://openart.ai/workflows/@yangbaiwan/id/SlAvsoE1BQQUL3j8uh6w
+2025-10-27 17:22:21,120 - INFO - [29/171] Processing: https://openart.ai/workflows/@bracke_enchanting_1/id/EuimM6vMPYcakDlZooII
+2025-10-27 17:22:24,473 - WARNING - Download button not found for https://openart.ai/workflows/@bracke_enchanting_1/id/EuimM6vMPYcakDlZooII
+2025-10-27 17:22:24,473 - INFO - [30/171] Processing: https://openart.ai/workflows/sexygirl/strong-body-impact-super-v2/F9dMZ9JENnBTevO9H97d
+2025-10-27 17:22:53,070 - INFO - Downloaded and saved as workflow_30.json
+2025-10-27 17:22:53,070 - INFO - [31/171] Processing: https://openart.ai/workflows/@eel_female_53/id/vgcbtUDX5ZIxF2U5x5x4
+2025-10-27 17:22:56,273 - WARNING - Download button not found for https://openart.ai/workflows/@eel_female_53/id/vgcbtUDX5ZIxF2U5x5x4
+2025-10-27 17:22:56,274 - INFO - [32/171] Processing: https://openart.ai/workflows/eel_female_53/qwen-edit-replace-head/GKjsPdjp9C31hDMn5MdV
+2025-10-27 17:23:05,623 - INFO - Downloaded and saved as workflow_32.json
+2025-10-27 17:23:05,623 - INFO - [33/171] Processing: https://openart.ai/workflows/cgtips/comfyui---flux-ipadapter-beta-version/TtgfARbexUSYQYMGiKLw
+2025-10-27 17:23:13,448 - INFO - Downloaded and saved as workflow_33.json
+2025-10-27 17:23:13,449 - INFO - [34/171] Processing: https://openart.ai/workflows/@elephant_substantial_15/id/84inITeF0iePdb5FFbyH
+2025-10-27 17:23:16,531 - WARNING - Download button not found for https://openart.ai/workflows/@elephant_substantial_15/id/84inITeF0iePdb5FFbyH
+2025-10-27 17:23:16,531 - INFO - [35/171] Processing: https://openart.ai/workflows/@monkey_blue_26/id/9xzV0m9x8YdXjKjUgjgY
+2025-10-27 17:23:19,765 - WARNING - Download button not found for https://openart.ai/workflows/@monkey_blue_26/id/9xzV0m9x8YdXjKjUgjgY
+2025-10-27 17:23:19,765 - INFO - [36/171] Processing: https://openart.ai/workflows/fish_intent_33/designfloorplantopic-ollamagemini/zY1DX9rcqm3A1Ud2azrK
+2025-10-27 17:23:30,588 - INFO - Downloaded and saved as workflow_36.json
+2025-10-27 17:23:30,588 - INFO - [37/171] Processing: https://openart.ai/workflows/zentrocdot/sd-face-fixer-4-pass/JckZ3ZItFVhpF1AAkMDi
+2025-10-27 17:23:53,146 - INFO - Downloaded and saved as workflow_37.json
+2025-10-27 17:23:53,146 - INFO - [38/171] Processing: https://openart.ai/workflows/@camel_ideal_65/id/wjKZ0cDhTKEVhUAFSdj7
+2025-10-27 17:23:56,537 - WARNING - Download button not found for https://openart.ai/workflows/@camel_ideal_65/id/wjKZ0cDhTKEVhUAFSdj7
+2025-10-27 17:23:56,537 - INFO - [39/171] Processing: https://openart.ai/workflows/@snake_bitter_32/id/NPiyPt5pneRqKphzC14f
+2025-10-27 17:23:59,944 - WARNING - Download button not found for https://openart.ai/workflows/@snake_bitter_32/id/NPiyPt5pneRqKphzC14f
+2025-10-27 17:23:59,944 - INFO - [40/171] Processing: https://openart.ai/workflows/@raretutor/id/user_30g7ZATbGufgb0Iky1vvtklQbM4
+2025-10-27 17:24:05,506 - WARNING - Download button not found for https://openart.ai/workflows/@raretutor/id/user_30g7ZATbGufgb0Iky1vvtklQbM4
+2025-10-27 17:24:05,506 - INFO - [41/171] Processing: https://openart.ai/workflows/leeguandong/hidream-txt2img/7Y9CAT27Vk57YAynff3S
+2025-10-27 17:24:13,637 - INFO - Downloaded and saved as workflow_41.json
+2025-10-27 17:24:13,638 - INFO - [42/171] Processing: https://openart.ai/workflows/camel_ideal_65/wan22_sexy_video_t2v/ZR3ObTNdPk8O78nP5X2M
+2025-10-27 17:24:26,606 - INFO - Downloaded and saved as workflow_42.json
+2025-10-27 17:24:26,607 - INFO - [43/171] Processing: https://openart.ai/workflows/neuralunk/-/41SCK4gOr5XrLYX9WlJI
+2025-10-27 17:24:35,191 - INFO - Downloaded and saved as workflow_43.json
+2025-10-27 17:24:35,191 - INFO - [44/171] Processing: https://openart.ai/workflows/whmc76/interior-decoration-dreamer/Mmz8ePoIDZwV7TSz7Mbw
+2025-10-27 17:24:53,964 - INFO - Downloaded and saved as workflow_44.json
+2025-10-27 17:24:53,964 - INFO - [45/171] Processing: https://openart.ai/workflows/@datou/id/i0Fw5vnAPfyXOXA92IIF
+2025-10-27 17:24:57,435 - WARNING - Download button not found for https://openart.ai/workflows/@datou/id/i0Fw5vnAPfyXOXA92IIF
+2025-10-27 17:24:57,435 - INFO - [46/171] Processing: https://openart.ai/workflows/@grouse_artistic_16/id/pXdTiNKqyEfTEb2Nqfy0
+2025-10-27 17:25:01,745 - WARNING - Download button not found for https://openart.ai/workflows/@grouse_artistic_16/id/pXdTiNKqyEfTEb2Nqfy0
+2025-10-27 17:25:01,745 - INFO - [47/171] Processing: https://openart.ai/workflows/@sexygirl/id/user_32xWIxbcn0NhwqyUq8TueejTzMr
+2025-10-27 17:25:05,971 - WARNING - Download button not found for https://openart.ai/workflows/@sexygirl/id/user_32xWIxbcn0NhwqyUq8TueejTzMr
+2025-10-27 17:25:05,971 - INFO - [48/171] Processing: https://openart.ai/workflows/t8star/-/7XSWLdFFeaLMnWDM1ljK
+2025-10-27 17:25:18,627 - INFO - Downloaded and saved as workflow_48.json
+2025-10-27 17:25:18,628 - INFO - [49/171] Processing: https://openart.ai/workflows/faborohacks/nsfw-infinite-video-with-comfyui-enhanced-version/18AhBtSdF94HkiUROb4P
+2025-10-27 17:25:29,102 - INFO - Downloaded and saved as workflow_49.json
+2025-10-27 17:25:29,102 - INFO - [50/171] Processing: https://openart.ai/workflows/grouse_artistic_16/fluxflux-add-detail-realistic-skin/B5rjkxUepbrmeh3e3zIO
+2025-10-27 17:25:43,820 - INFO - Downloaded and saved as workflow_50.json
+2025-10-27 17:25:43,821 - INFO - Progress: 50/171 - Success: 32, Failed: 18
+2025-10-27 17:25:43,821 - INFO - [51/171] Processing: https://openart.ai/workflows/home
+2025-10-27 17:26:26,771 - WARNING - Download timeout for https://openart.ai/workflows/home
+2025-10-27 17:26:26,772 - INFO - [52/171] Processing: https://openart.ai/workflows/coonhound_gracious_99/flux-consistent-realistic-character-extremely-realism-flux/kNyovSvGSnpYFA7VHBmU
+2025-10-27 17:26:56,781 - ERROR - Page load timeout for https://openart.ai/workflows/coonhound_gracious_99/flux-consistent-realistic-character-extremely-realism-flux/kNyovSvGSnpYFA7VHBmU
+2025-10-27 17:26:56,781 - INFO - [53/171] Processing: https://openart.ai/workflows/t8star/-/Iq6psDPSXEc9PPshFxb6
+2025-10-27 17:27:07,274 - INFO - Downloaded and saved as workflow_53.json
+2025-10-27 17:27:07,274 - INFO - [54/171] Processing: https://openart.ai/workflows/all/spotlight
+2025-10-27 17:27:10,225 - WARNING - Download button not found for https://openart.ai/workflows/all/spotlight
+2025-10-27 17:27:10,226 - INFO - [55/171] Processing: https://openart.ai/workflows/frog_forsaken_49/change-clothes/siND9pTFXEUumY1qYEXq
+2025-10-27 17:27:18,691 - INFO - Downloaded and saved as workflow_55.json
+2025-10-27 17:27:18,692 - INFO - [56/171] Processing: https://openart.ai/workflows/@frog_forsaken_49/id/WsSavXIVq6n35CZedoBo
+2025-10-27 17:27:22,637 - WARNING - Download button not found for https://openart.ai/workflows/@frog_forsaken_49/id/WsSavXIVq6n35CZedoBo
+2025-10-27 17:27:22,637 - INFO - [57/171] Processing: https://openart.ai/workflows/civet_flawless_61/super-face-changer-30/dITBxTqQFkjOVCudshuf
+2025-10-27 17:27:32,646 - INFO - Downloaded and saved as workflow_57.json
+2025-10-27 17:27:32,647 - INFO - [58/171] Processing: https://openart.ai/workflows/@t8star/id/wNFxXkgT0e22thYeVYPI
+2025-10-27 17:27:56,959 - WARNING - Download button not found for https://openart.ai/workflows/@t8star/id/wNFxXkgT0e22thYeVYPI
+2025-10-27 17:27:56,959 - INFO - [59/171] Processing: https://openart.ai/workflows/comfyuiblog/image-to-video-with-cogvideox-fun-working-in-low-vram/QyAUlPO1OHHAT2PGdOtJ
+2025-10-27 17:28:10,449 - INFO - Downloaded and saved as workflow_59.json
+2025-10-27 17:28:10,450 - INFO - [60/171] Processing: https://openart.ai/workflows/elephant_substantial_15/show_o_text_to_image01/MGyCZ59ts9T3bh7SkfAO
+2025-10-27 17:28:18,675 - INFO - Downloaded and saved as workflow_60.json
+2025-10-27 17:28:18,675 - INFO - [61/171] Processing: https://openart.ai/workflows/comfyuiblog/best-settings-for-high-quality-results-with-low-vram-cogvideo/jK2C7r0KkxlK3orplILL
+2025-10-27 17:28:26,571 - INFO - Downloaded and saved as workflow_61.json
+2025-10-27 17:28:26,571 - INFO - [62/171] Processing: https://openart.ai/workflows/aura_111/realistic-image-generation-nsfwsfw-workflow-sdxl-portrait-seductive-glowing/cVlKiRH3vQpGXXZHgXvr
+2025-10-27 17:28:39,961 - INFO - Downloaded and saved as workflow_62.json
+2025-10-27 17:28:39,961 - INFO - [63/171] Processing: https://openart.ai/workflows/@salamander_enormous_93/id/9IQq5PgIO3ogbfkwJDQ5
+2025-10-27 17:28:43,253 - WARNING - Download button not found for https://openart.ai/workflows/@salamander_enormous_93/id/9IQq5PgIO3ogbfkwJDQ5
+2025-10-27 17:28:43,253 - INFO - [64/171] Processing: https://openart.ai/workflows/@dachshund_yellowish_80/id/BjrTt8vl8opyNvZKUQ0h
+2025-10-27 17:28:46,499 - WARNING - Download button not found for https://openart.ai/workflows/@dachshund_yellowish_80/id/BjrTt8vl8opyNvZKUQ0h
+2025-10-27 17:28:46,499 - INFO - [65/171] Processing: https://openart.ai/workflows/benjamin/nsfw-wan22-14b-red-sexy/KnTGLhoy1sYU7mpSHnXT
+2025-10-27 17:29:03,924 - INFO - Downloaded and saved as workflow_65.json
+2025-10-27 17:29:03,925 - INFO - [66/171] Processing: https://openart.ai/workflows/@bbs_revenger/id/aWn271jc5RFU7SQRdM2P
+2025-10-27 17:29:07,067 - WARNING - Download button not found for https://openart.ai/workflows/@bbs_revenger/id/aWn271jc5RFU7SQRdM2P
+2025-10-27 17:29:07,067 - INFO - [67/171] Processing: https://openart.ai/workflows/@rui400/id/MOsZBUmh14mRk71paQfu
+2025-10-27 17:29:10,684 - WARNING - Download button not found for https://openart.ai/workflows/@rui400/id/MOsZBUmh14mRk71paQfu
+2025-10-27 17:29:10,684 - INFO - [68/171] Processing: https://openart.ai/workflows/hound_red_82/logo-gradient-animationlogo/HfqBqVU9T4dNpsdpdJfU
+2025-10-27 17:29:19,087 - INFO - Downloaded and saved as workflow_68.json
+2025-10-27 17:29:19,088 - INFO - [69/171] Processing: https://openart.ai/workflows/sexygirl/remove-clothes-from-video/qC1fsyUgOfMpsyfd5qLE
+2025-10-27 17:29:35,477 - INFO - Downloaded and saved as workflow_69.json
+2025-10-27 17:29:35,479 - INFO - [70/171] Processing: https://openart.ai/workflows/terrier_hairy_84/interior-design-workflow/GoUHms2gxpH8r3vTfuDd
+2025-10-27 17:29:45,242 - INFO - Downloaded and saved as workflow_70.json
+2025-10-27 17:29:45,243 - INFO - [71/171] Processing: https://openart.ai/workflows/@goshnii/id/dYCHXtCMsGMeJxvwdfk8
+2025-10-27 17:29:48,498 - WARNING - Download button not found for https://openart.ai/workflows/@goshnii/id/dYCHXtCMsGMeJxvwdfk8
+2025-10-27 17:29:48,498 - INFO - [72/171] Processing: https://openart.ai/workflows/bbs_revenger/take-off-clothes-wan22-i2v/a799LjeO0VdL10vY48UG
+2025-10-27 17:29:56,864 - INFO - Downloaded and saved as workflow_72.json
+2025-10-27 17:29:56,865 - INFO - [73/171] Processing: https://openart.ai/workflows/mongrel_monstrous_1/kitchen-sink---simplified/PyPuCqqpk1vc50hvMeN0
+2025-10-27 17:30:06,131 - INFO - Downloaded and saved as workflow_73.json
+2025-10-27 17:30:06,131 - INFO - [74/171] Processing: https://openart.ai/workflows/@possum_yawning_10/id/FuFXcGci8Ko57eKQyrkQ
+2025-10-27 17:30:10,107 - WARNING - Download button not found for https://openart.ai/workflows/@possum_yawning_10/id/FuFXcGci8Ko57eKQyrkQ
+2025-10-27 17:30:10,107 - INFO - [75/171] Processing: https://openart.ai/workflows/@zentrocdot/id/n4Tc89bOdQ7J7cuy79EV
+2025-10-27 17:30:14,123 - WARNING - Download button not found for https://openart.ai/workflows/@zentrocdot/id/n4Tc89bOdQ7J7cuy79EV
+2025-10-27 17:30:14,123 - INFO - [76/171] Processing: https://openart.ai/workflows/academy
+2025-10-27 17:30:20,842 - WARNING - Download button not found for https://openart.ai/workflows/academy
+2025-10-27 17:30:20,842 - INFO - [77/171] Processing: https://openart.ai/workflows/jerrydavos/v30-animatediff-refiner/BThNnFCE4JFQAu0nbax6
+2025-10-27 17:30:29,337 - INFO - Downloaded and saved as workflow_77.json
+2025-10-27 17:30:29,338 - INFO - [78/171] Processing: https://openart.ai/workflows/@cgpixel_ai_art/id/DeMWVGqjMhEj6mu6HQkI
+2025-10-27 17:30:34,597 - WARNING - Download button not found for https://openart.ai/workflows/@cgpixel_ai_art/id/DeMWVGqjMhEj6mu6HQkI
+2025-10-27 17:30:34,597 - INFO - [79/171] Processing: https://openart.ai/workflows/civet_flawless_61/latest-wan-22-animate-infinite-loop-automatic-segmentation-long-video/Y8oBotjovRK3fFg1rIV2
+2025-10-27 17:30:43,150 - INFO - Downloaded and saved as workflow_79.json
+2025-10-27 17:30:43,150 - INFO - [80/171] Processing: https://openart.ai/workflows/@ravenblack/id/IHzdnwfr47A2aR0LQqhN
+2025-10-27 17:30:47,256 - WARNING - Download button not found for https://openart.ai/workflows/@ravenblack/id/IHzdnwfr47A2aR0LQqhN
+2025-10-27 17:30:47,256 - INFO - [81/171] Processing: https://openart.ai/workflows/fish_intent_33/changing-materials-multiple-interior-images/Fig9bsXm9KwvbGzuLb3B
+2025-10-27 17:30:57,016 - INFO - Downloaded and saved as workflow_81.json
+2025-10-27 17:30:57,016 - INFO - [82/171] Processing: https://openart.ai/workflows/@hound_red_82/id/IyGUijmYrNL22cFMgDDn
+2025-10-27 17:31:07,249 - WARNING - Download button not found for https://openart.ai/workflows/@hound_red_82/id/IyGUijmYrNL22cFMgDDn
+2025-10-27 17:31:07,250 - INFO - [83/171] Processing: https://openart.ai/workflows/datou/flux-ipadapter/SSRYr2owhMzYLyK8Roc5
+2025-10-27 17:31:20,437 - INFO - Downloaded and saved as workflow_83.json
+2025-10-27 17:31:20,437 - INFO - [84/171] Processing: https://openart.ai/workflows/monkey_blue_26/v10-svd---animatediff-refiner-upscaler-for-more-details-and-stable-motion/7WksNpNTk3u7D1eimIpM
+2025-10-27 17:31:50,438 - ERROR - Page load timeout for https://openart.ai/workflows/monkey_blue_26/v10-svd---animatediff-refiner-upscaler-for-more-details-and-stable-motion/7WksNpNTk3u7D1eimIpM
+2025-10-27 17:31:50,439 - INFO - [85/171] Processing: https://openart.ai/workflows/@neuralunk/id/Sz4k0e7P8C8lGrAkKA4j
+2025-10-27 17:31:54,136 - WARNING - Download button not found for https://openart.ai/workflows/@neuralunk/id/Sz4k0e7P8C8lGrAkKA4j
+2025-10-27 17:31:54,136 - INFO - [86/171] Processing: https://openart.ai/workflows/@benjamin/id/xG80xOX9BGHRTgYuSs9C
+2025-10-27 17:32:02,191 - WARNING - Download button not found for https://openart.ai/workflows/@benjamin/id/xG80xOX9BGHRTgYuSs9C
+2025-10-27 17:32:02,191 - INFO - [87/171] Processing: https://openart.ai/workflows/@jerrydavos/id/9xzV0m9x8YdXjKjUgjgY
+2025-10-27 17:32:05,330 - WARNING - Download button not found for https://openart.ai/workflows/@jerrydavos/id/9xzV0m9x8YdXjKjUgjgY
+2025-10-27 17:32:05,330 - INFO - [88/171] Processing: https://openart.ai/workflows/leaderboard
+2025-10-27 17:32:09,983 - WARNING - Download button not found for https://openart.ai/workflows/leaderboard
+2025-10-27 17:32:09,983 - INFO - [89/171] Processing: https://openart.ai/workflows/faborohacks/qwen-edit-2509-image-blend/INQfThZQBNpgS9cdGP0T
+2025-10-27 17:32:19,081 - INFO - Downloaded and saved as workflow_89.json
+2025-10-27 17:32:19,082 - INFO - [90/171] Processing: https://openart.ai/workflows/@civet_flawless_61/id/ebZwVOu5vdomsSYNrhFn
+2025-10-27 17:32:22,317 - WARNING - Download button not found for https://openart.ai/workflows/@civet_flawless_61/id/ebZwVOu5vdomsSYNrhFn
+2025-10-27 17:32:22,317 - INFO - [91/171] Processing: https://openart.ai/workflows/beaver_absolute_68/jboogx-ultimatelcm-animatediff-vid2vid-workflow/DrlmwkcBsCjUBjdAe5VH
+2025-10-27 17:32:32,646 - INFO - Downloaded and saved as workflow_91.json
+2025-10-27 17:32:32,646 - INFO - [92/171] Processing: https://openart.ai/workflows/caiman_growing_47/high-resolution-face-swap/Ix2wwODjESfLWxDe3zO9
+2025-10-27 17:32:40,855 - INFO - Downloaded and saved as workflow_92.json
+2025-10-27 17:32:40,855 - INFO - [93/171] Processing: https://openart.ai/workflows/@faborohacks/id/LV8JwOfLq1iwaXFv71pT
+2025-10-27 17:32:53,396 - WARNING - Download button not found for https://openart.ai/workflows/@faborohacks/id/LV8JwOfLq1iwaXFv71pT
+2025-10-27 17:32:53,396 - INFO - [94/171] Processing: https://openart.ai/workflows/@cychenyue/id/ku6c7DYclRdGLeX9CIsa
+2025-10-27 17:32:56,839 - WARNING - Download button not found for https://openart.ai/workflows/@cychenyue/id/ku6c7DYclRdGLeX9CIsa
+2025-10-27 17:32:56,839 - INFO - [95/171] Processing: https://openart.ai/workflows/t8star/flux-tools-canny/cudSdDSfBvaI0zlRIPhO
+2025-10-27 17:33:06,647 - INFO - Downloaded and saved as workflow_95.json
+2025-10-27 17:33:06,648 - INFO - [96/171] Processing: https://openart.ai/workflows/cychenyue/flux-controlnet-upscale/XsEKTG1cvnRXYdsPsQVc
+2025-10-27 17:33:18,257 - INFO - Downloaded and saved as workflow_96.json
+2025-10-27 17:33:18,258 - INFO - [97/171] Processing: https://openart.ai/workflows/whippet_scratchy_33/mocha-video-character-replacement/mhspE7BK87sr7xhkiT62
+2025-10-27 17:33:45,149 - INFO - Downloaded and saved as workflow_97.json
+2025-10-27 17:33:45,150 - INFO - [98/171] Processing: https://openart.ai/workflows/mongrel_monstrous_1/flux-gguf-w-watermark-footer---add-watermarks-inside-of-the-ai-image-itself/wMEooXSM9G1N5HApoQUh
+2025-10-27 17:34:04,160 - INFO - Downloaded and saved as workflow_98.json
+2025-10-27 17:34:04,161 - INFO - [99/171] Processing: https://openart.ai/workflows/neuralunk/flux-runs-on-12gb-low-vram/rjqew3CfF0lHKnZtyl5b
+2025-10-27 17:34:25,544 - INFO - Downloaded and saved as workflow_99.json
+2025-10-27 17:34:25,545 - INFO - [100/171] Processing: https://openart.ai/workflows/aban/humoinfinitetalkcharacter-mv-production/PoG5VWFR2MzyWDI2d4S0
+2025-10-27 17:34:34,515 - INFO - Downloaded and saved as workflow_100.json
+2025-10-27 17:34:34,515 - INFO - Progress: 100/171 - Success: 58, Failed: 42
+2025-10-27 17:34:34,515 - INFO - [101/171] Processing: https://openart.ai/workflows/elephant_substantial_15/bagel_image_edit_df11/9xeAGMk8TZVSEtrCOt23
+2025-10-27 17:34:42,736 - INFO - Downloaded and saved as workflow_101.json
+2025-10-27 17:34:42,736 - INFO - [102/171] Processing: https://openart.ai/workflows/profile/?tab=workflows
+2025-10-27 17:34:46,437 - WARNING - Download button not found for https://openart.ai/workflows/profile/?tab=workflows
+2025-10-27 17:34:46,438 - INFO - [103/171] Processing: https://openart.ai/workflows/comfyuiblog/pyramidflow-workflow-image-to-video/U5G3Pw9qYdMT0GGpXoPZ
+2025-10-27 17:34:59,714 - INFO - Downloaded and saved as workflow_103.json
+2025-10-27 17:34:59,716 - INFO - [104/171] Processing: https://openart.ai/workflows/@aura_111/id/KI4RhHdhxR4PecDcfnpI
+2025-10-27 17:35:04,861 - WARNING - Download button not found for https://openart.ai/workflows/@aura_111/id/KI4RhHdhxR4PecDcfnpI
+2025-10-27 17:35:04,861 - INFO - [105/171] Processing: https://openart.ai/workflows/followings?tab=following
+2025-10-27 17:35:07,984 - WARNING - Download button not found for https://openart.ai/workflows/followings?tab=following
+2025-10-27 17:35:07,984 - INFO - [106/171] Processing: https://openart.ai/workflows/@coonhound_gracious_99/id/LFwu79pWgJI3LgswsaId
+2025-10-27 17:35:11,395 - WARNING - Download button not found for https://openart.ai/workflows/@coonhound_gracious_99/id/LFwu79pWgJI3LgswsaId
+2025-10-27 17:35:11,395 - INFO - [107/171] Processing: https://openart.ai/workflows/@beaver_absolute_68/id/Ip6MlCkvuPkO5jYxkSY7
+2025-10-27 17:35:14,887 - WARNING - Download button not found for https://openart.ai/workflows/@beaver_absolute_68/id/Ip6MlCkvuPkO5jYxkSY7
+2025-10-27 17:35:14,887 - INFO - [108/171] Processing: https://openart.ai/workflows/goshnii/consistent-characters-and-ai-backgrounds/NKDFt2jr3XNEk2ohsQ8f
+2025-10-27 17:35:25,718 - INFO - Downloaded and saved as workflow_108.json
+2025-10-27 17:35:25,719 - INFO - [109/171] Processing: https://openart.ai/workflows/collie_luminous_61/-/tXPUGYEzLds7OHzxDsTY
+2025-10-27 17:35:34,633 - INFO - Downloaded and saved as workflow_109.json
+2025-10-27 17:35:34,634 - INFO - [110/171] Processing: https://openart.ai/workflows/@aban/id/7g2RrC0tGL8PHjdGnvve
+2025-10-27 17:35:39,184 - WARNING - Download button not found for https://openart.ai/workflows/@aban/id/7g2RrC0tGL8PHjdGnvve
+2025-10-27 17:35:39,184 - INFO - [111/171] Processing: https://openart.ai/workflows/civet_flawless_61/wan22-smoothmix-high-dynamic-image-to-video-dynamic-enhancement/dz3km1wq6tt8wt8guMFd
+2025-10-27 17:35:47,426 - INFO - Downloaded and saved as workflow_111.json
+2025-10-27 17:35:47,427 - INFO - [112/171] Processing: https://openart.ai/workflows/cgtips/comfyui---ai-character-swapping/MaXULlfT5KqlWEf6fPrv
+2025-10-27 17:35:55,784 - INFO - Downloaded and saved as workflow_112.json
+2025-10-27 17:35:55,784 - INFO - [113/171] Processing: https://openart.ai/workflows/nomadoor/in-context-lora-cogvideox-interpolation/hGw9NPTooWBCoAmeDB7D
+2025-10-27 17:36:19,213 - INFO - Downloaded and saved as workflow_113.json
+2025-10-27 17:36:19,213 - INFO - [114/171] Processing: https://openart.ai/workflows/@onion/id/rBg0ePF3BLUqr4QolcqX
+2025-10-27 17:36:25,080 - WARNING - Download button not found for https://openart.ai/workflows/@onion/id/rBg0ePF3BLUqr4QolcqX
+2025-10-27 17:36:25,080 - INFO - [115/171] Processing: https://openart.ai/workflows/@whmc76/id/O7mAFdBZfsvwsD68QPUu
+2025-10-27 17:36:28,723 - WARNING - Download button not found for https://openart.ai/workflows/@whmc76/id/O7mAFdBZfsvwsD68QPUu
+2025-10-27 17:36:28,723 - INFO - [116/171] Processing: https://openart.ai/workflows/@civet_plush_52/id/atwgRjLndY5395AZFffT
+2025-10-27 17:36:31,887 - WARNING - Download button not found for https://openart.ai/workflows/@civet_plush_52/id/atwgRjLndY5395AZFffT
+2025-10-27 17:36:31,887 - INFO - [117/171] Processing: https://openart.ai/workflows/civet_flawless_61/architectural-landscape-planning-interior-all-in-one-rendering-v20/keaYdWfnDXDl51RX735L
+2025-10-27 17:36:41,578 - INFO - Downloaded and saved as workflow_117.json
+2025-10-27 17:36:41,579 - INFO - [118/171] Processing: https://openart.ai/workflows/onion/qwen-realistic-12gb/Ca0unnEnC0qIDo791jnB
+2025-10-27 17:36:50,781 - INFO - Downloaded and saved as workflow_118.json
+2025-10-27 17:36:50,782 - INFO - [119/171] Processing: https://openart.ai/workflows/dachshund_yellowish_80/sd15ice-cream-replace-anything-sd15/RpwCc7hqfsnpBDyIdGVr
+2025-10-27 17:37:01,031 - INFO - Downloaded and saved as workflow_119.json
+2025-10-27 17:37:01,033 - INFO - [120/171] Processing: https://openart.ai/workflows/@turkey_reasonable_72/id/Kscn7pfIsOfkzxpFLLkt
+2025-10-27 17:37:05,459 - WARNING - Download button not found for https://openart.ai/workflows/@turkey_reasonable_72/id/Kscn7pfIsOfkzxpFLLkt
+2025-10-27 17:37:05,459 - INFO - [121/171] Processing: https://openart.ai/workflows/coonhound_gracious_99/_-v2prointerior-decoration-based-on-reference-pictures_multiple-selection-upscale/fBZzyKFfmsotAUOtebNL
+2025-10-27 17:37:15,401 - INFO - Downloaded and saved as workflow_121.json
+2025-10-27 17:37:15,401 - INFO - [122/171] Processing: https://openart.ai/workflows/publish
+2025-10-27 17:37:20,006 - WARNING - Download button not found for https://openart.ai/workflows/publish
+2025-10-27 17:37:20,006 - INFO - [123/171] Processing: https://openart.ai/workflows/beaver_absolute_68/flux-lora-upscaler/Mk8Yz49ROXjkQObezVMp
+2025-10-27 17:37:29,230 - INFO - Downloaded and saved as workflow_123.json
+2025-10-27 17:37:29,231 - INFO - [124/171] Processing: https://openart.ai/workflows/@cgtips/id/6p68g6DmcGocK9Gb5bgn
+2025-10-27 17:37:32,524 - WARNING - Download button not found for https://openart.ai/workflows/@cgtips/id/6p68g6DmcGocK9Gb5bgn
+2025-10-27 17:37:32,524 - INFO - [125/171] Processing: https://openart.ai/workflows/@cockroach_golden_27/id/SHvk1ZD9Tdl5is01k5U8
+2025-10-27 17:37:35,540 - WARNING - Download button not found for https://openart.ai/workflows/@cockroach_golden_27/id/SHvk1ZD9Tdl5is01k5U8
+2025-10-27 17:37:35,541 - INFO - [126/171] Processing: https://openart.ai/workflows/bracke_enchanting_1/work-fisher-fully-automatic-outfit-change-video-motion-transfer/JJb0fwhEcWHAmluFgL5a
+2025-10-27 17:37:56,926 - INFO - Downloaded and saved as workflow_126.json
+2025-10-27 17:37:56,927 - INFO - [127/171] Processing: https://openart.ai/workflows/turkey_reasonable_72/superfast_image_upscale_for_regular_photos/9Gov4jl2k42MM6798iLx
+2025-10-27 17:38:07,175 - INFO - Downloaded and saved as workflow_127.json
+2025-10-27 17:38:07,176 - INFO - [128/171] Processing: https://openart.ai/workflows/raretutor/ovi-only-10-steps-with-turbo-lora-open-source-ai-video-with-audio-veo-31-in-comfyui-locally/yQ3xfbLVm4Thr1hruvDI
+2025-10-27 17:38:15,398 - INFO - Downloaded and saved as workflow_128.json
+2025-10-27 17:38:15,400 - INFO - [129/171] Processing: https://openart.ai/workflows/t8star/104wan22fsamplerh2s2v225/oBwXKo3eTSWEe4eP5Ps6
+2025-10-27 17:38:23,854 - INFO - Downloaded and saved as workflow_129.json
+2025-10-27 17:38:23,854 - INFO - [130/171] Processing: https://openart.ai/workflows/@terrier_hairy_84/id/zd2VKj5kne3sxjajV8xd
+2025-10-27 17:38:27,341 - WARNING - Download button not found for https://openart.ai/workflows/@terrier_hairy_84/id/zd2VKj5kne3sxjajV8xd
+2025-10-27 17:38:27,341 - INFO - [131/171] Processing: https://openart.ai/workflows/@mongrel_monstrous_1/id/tQiUCRuRVdQucTGkkEJg
+2025-10-27 17:38:32,668 - WARNING - Download button not found for https://openart.ai/workflows/@mongrel_monstrous_1/id/tQiUCRuRVdQucTGkkEJg
+2025-10-27 17:38:32,669 - INFO - [132/171] Processing: https://openart.ai/workflows/betterthanyouandyouknowit/upsc/cCTIatcev9ut41EADgpi
+2025-10-27 17:38:40,710 - INFO - Downloaded and saved as workflow_132.json
+2025-10-27 17:38:40,710 - INFO - [133/171] Processing: https://openart.ai/workflows/civet_plush_52/interior-style-design-no-graphics-card-required-fast/KcSX9tLcyqD9Tr3UxYgt
+2025-10-27 17:38:49,760 - INFO - Downloaded and saved as workflow_133.json
+2025-10-27 17:38:49,762 - INFO - [134/171] Processing: https://openart.ai/workflows/neuralunk/-/bHBqBvAvymf9VQCPliQ2
+2025-10-27 17:38:57,520 - INFO - Downloaded and saved as workflow_134.json
+2025-10-27 17:38:57,521 - INFO - [135/171] Processing: https://openart.ai/workflows/makisekurisu/flux-conditioning-deltas/A1pESnhPWZln2a6jnTHK
+2025-10-27 17:39:05,418 - INFO - Downloaded and saved as workflow_135.json
+2025-10-27 17:39:05,418 - INFO - [136/171] Processing: https://openart.ai/workflows/rui400/all-your-life/xfWnQSBIKK5B46IOez2Q
+2025-10-27 17:39:35,432 - ERROR - Page load timeout for https://openart.ai/workflows/rui400/all-your-life/xfWnQSBIKK5B46IOez2Q
+2025-10-27 17:39:35,433 - INFO - [137/171] Processing: https://openart.ai/workflows/@spitz_fickle_3/id/jAuUojVB4l8RsoBPRDlW
+2025-10-27 17:39:38,848 - WARNING - Download button not found for https://openart.ai/workflows/@spitz_fickle_3/id/jAuUojVB4l8RsoBPRDlW
+2025-10-27 17:39:38,848 - INFO - [138/171] Processing: https://openart.ai/workflows/ravenblack/lcm-three-image-prompt-hiresfixscale-low-vram-sd-15/TCuDpNbBQjy4RxWW4cY3
+2025-10-27 17:39:48,785 - INFO - Downloaded and saved as workflow_138.json
+2025-10-27 17:39:48,786 - INFO - [139/171] Processing: https://openart.ai/workflows/@leeguandong/id/zgWJqzZSTHbziIaskdIs
+2025-10-27 17:39:55,069 - WARNING - Download button not found for https://openart.ai/workflows/@leeguandong/id/zgWJqzZSTHbziIaskdIs
+2025-10-27 17:39:55,069 - INFO - [140/171] Processing: https://openart.ai/workflows/@armadillo_spirited_1/id/w5uKf6VeAJI7I8tBn7gd
+2025-10-27 17:39:59,827 - WARNING - Download button not found for https://openart.ai/workflows/@armadillo_spirited_1/id/w5uKf6VeAJI7I8tBn7gd
+2025-10-27 17:39:59,827 - INFO - [141/171] Processing: https://openart.ai/workflows/risunobushi/product-photography-relight-v3---with-internal-frequency-separation-for-keeping-details/YrTJ0JTwCX2S0btjFeEN
+2025-10-27 17:40:12,755 - INFO - Downloaded and saved as workflow_141.json
+2025-10-27 17:40:12,756 - INFO - [142/171] Processing: https://openart.ai/workflows/@openart/id/4pYEgRw3JXVFu5elJKeR
+2025-10-27 17:40:17,183 - WARNING - Download button not found for https://openart.ai/workflows/@openart/id/4pYEgRw3JXVFu5elJKeR
+2025-10-27 17:40:17,183 - INFO - [143/171] Processing: https://openart.ai/workflows/spitz_fickle_3/sd15-t2i_adapter_openpose-ksampler/xLspgOcYYYTvc8zEy9NJ
+2025-10-27 17:40:25,408 - INFO - Downloaded and saved as workflow_143.json
+2025-10-27 17:40:25,408 - INFO - [144/171] Processing: https://openart.ai/workflows/@whippet_scratchy_33/id/GlMn7LjBkN0tjceI2uJz
+2025-10-27 17:40:34,445 - WARNING - Download button not found for https://openart.ai/workflows/@whippet_scratchy_33/id/GlMn7LjBkN0tjceI2uJz
+2025-10-27 17:40:34,445 - INFO - [145/171] Processing: https://openart.ai/workflows/@makisekurisu/id/6hHgPWFRHuSWBxqocmhz
+2025-10-27 17:41:04,458 - ERROR - Page load timeout for https://openart.ai/workflows/@makisekurisu/id/6hHgPWFRHuSWBxqocmhz
+2025-10-27 17:41:04,458 - INFO - [146/171] Processing: https://openart.ai/workflows/@mista_creta/id/l8APrQyxGiECVrs923EI
+2025-10-27 17:41:08,200 - WARNING - Download button not found for https://openart.ai/workflows/@mista_creta/id/l8APrQyxGiECVrs923EI
+2025-10-27 17:41:08,200 - INFO - [147/171] Processing: https://openart.ai/workflows/@flounder_bowed_50/id/v1zvICRKQZff83s0sgv8
+2025-10-27 17:41:11,363 - WARNING - Download button not found for https://openart.ai/workflows/@flounder_bowed_50/id/v1zvICRKQZff83s0sgv8
+2025-10-27 17:41:11,363 - INFO - [148/171] Processing: https://openart.ai/workflows/profile/?tab=liked
+2025-10-27 17:41:15,190 - WARNING - Download button not found for https://openart.ai/workflows/profile/?tab=liked
+2025-10-27 17:41:15,190 - INFO - [149/171] Processing: https://openart.ai/workflows/templates
+2025-10-27 17:41:20,273 - WARNING - Download button not found for https://openart.ai/workflows/templates
+2025-10-27 17:41:20,273 - INFO - [150/171] Processing: https://openart.ai/workflows/synergyq/flux-hand-fix-inpaint-upscale-workflow/j4hodVm0KiGZw8dnQkMj
+2025-10-27 17:41:32,785 - INFO - Downloaded and saved as workflow_150.json
+2025-10-27 17:41:32,786 - INFO - Progress: 150/171 - Success: 82, Failed: 68
+2025-10-27 17:41:32,786 - INFO - [151/171] Processing: https://openart.ai/workflows/@comfyuiblog/id/JICCrsAxAxXP4MIZoQ16
+2025-10-27 17:41:36,070 - WARNING - Download button not found for https://openart.ai/workflows/@comfyuiblog/id/JICCrsAxAxXP4MIZoQ16
+2025-10-27 17:41:36,070 - INFO - [152/171] Processing: https://openart.ai/workflows/@cat_untimely_42/id/ZH0qX3FRS8ITFi7lqd0F
+2025-10-27 17:41:50,898 - WARNING - Download button not found for https://openart.ai/workflows/@cat_untimely_42/id/ZH0qX3FRS8ITFi7lqd0F
+2025-10-27 17:41:50,898 - INFO - [153/171] Processing: https://openart.ai/workflows/@gk0/id/aUjLPGACN5fObSsOZECL
+2025-10-27 17:41:54,592 - WARNING - Download button not found for https://openart.ai/workflows/@gk0/id/aUjLPGACN5fObSsOZECL
+2025-10-27 17:41:54,593 - INFO - [154/171] Processing: https://openart.ai/workflows/umbrellabird_rosy_75/-/MmJjBznyxSkgZlE3JEP0
+2025-10-27 17:42:03,599 - INFO - Downloaded and saved as workflow_154.json
+2025-10-27 17:42:03,599 - INFO - [155/171] Processing: https://openart.ai/workflows/t8star/vace14baccv1/Uym1en6j9pkwSVNFDbV8
+2025-10-27 17:42:11,882 - INFO - Downloaded and saved as workflow_155.json
+2025-10-27 17:42:11,884 - INFO - [156/171] Processing: https://openart.ai/workflows/elephant_substantial_15/flux_1_kontext_dev_turbo_8steps_dag_lora_colorize/ZM5IDWEs9lsk3Y8PJKOH
+2025-10-27 17:42:20,017 - INFO - Downloaded and saved as workflow_156.json
+2025-10-27 17:42:20,017 - INFO - [157/171] Processing: https://openart.ai/workflows/gk0/select-a-mask-4-ways/bxgmxwuDz4E1RL12eA6y
+2025-10-27 17:42:28,150 - INFO - Downloaded and saved as workflow_157.json
+2025-10-27 17:42:28,150 - INFO - [158/171] Processing: https://openart.ai/workflows/@myaiforce/id/IwEoNQvdsKso53eNBsVh
+2025-10-27 17:42:33,161 - WARNING - Download button not found for https://openart.ai/workflows/@myaiforce/id/IwEoNQvdsKso53eNBsVh
+2025-10-27 17:42:33,161 - INFO - [159/171] Processing: https://openart.ai/workflows/amumu/kohya-output-model-control/4jKe8AHE54zNCfawZK9r
+2025-10-27 17:42:43,201 - INFO - Downloaded and saved as workflow_159.json
+2025-10-27 17:42:43,201 - INFO - [160/171] Processing: https://openart.ai/workflows/@nomadoor/id/Mh0tJEYJ2DzFZXcl2pVB
+2025-10-27 17:43:07,168 - WARNING - Download button not found for https://openart.ai/workflows/@nomadoor/id/Mh0tJEYJ2DzFZXcl2pVB
+2025-10-27 17:43:07,169 - INFO - [161/171] Processing: https://openart.ai/workflows/blake/blakes-fast-low-vram-flux-svdquant-int4-upscale-workflow/37bFnlNFNyLOD4DcZ3qu
+2025-10-27 17:43:37,182 - ERROR - Page load timeout for https://openart.ai/workflows/blake/blakes-fast-low-vram-flux-svdquant-int4-upscale-workflow/37bFnlNFNyLOD4DcZ3qu
+2025-10-27 17:43:37,183 - INFO - [162/171] Processing: https://openart.ai/workflows/@collie_luminous_61/id/kegs5ObtcucIH8JT96NF
+2025-10-27 17:43:40,557 - WARNING - Download button not found for https://openart.ai/workflows/@collie_luminous_61/id/kegs5ObtcucIH8JT96NF
+2025-10-27 17:43:40,557 - INFO - [163/171] Processing: https://openart.ai/workflows/faborohacks/qwen-image-edit2509-relight/Uy6DdiEdjk1zbpWHjSg2
+2025-10-27 17:43:49,774 - INFO - Downloaded and saved as workflow_163.json
+2025-10-27 17:43:49,775 - INFO - [164/171] Processing: https://openart.ai/workflows/@liubai/id/IGlsSI2waL924aUCTW7d
+2025-10-27 17:43:54,859 - WARNING - Download button not found for https://openart.ai/workflows/@liubai/id/IGlsSI2waL924aUCTW7d
+2025-10-27 17:43:54,860 - INFO - [165/171] Processing: https://openart.ai/workflows/@blake/id/qHXI7HMGUFXiVEGErC4w
+2025-10-27 17:43:58,446 - WARNING - Download button not found for https://openart.ai/workflows/@blake/id/qHXI7HMGUFXiVEGErC4w
+2025-10-27 17:43:58,446 - INFO - [166/171] Processing: https://openart.ai/workflows/@caiman_growing_47/id/lWPUz1PZXEZbfxIj2CMP
+2025-10-27 17:44:01,720 - WARNING - Download button not found for https://openart.ai/workflows/@caiman_growing_47/id/lWPUz1PZXEZbfxIj2CMP
+2025-10-27 17:44:01,720 - INFO - [167/171] Processing: https://openart.ai/workflows/@oztrkoguz/id/KOzYX8xuTOvM6FpC7ZnR
+2025-10-27 17:44:05,484 - WARNING - Download button not found for https://openart.ai/workflows/@oztrkoguz/id/KOzYX8xuTOvM6FpC7ZnR
+2025-10-27 17:44:05,484 - INFO - [168/171] Processing: https://openart.ai/workflows/@fish_intent_33/id/yK52jHj7UHxhukLWVu9B
+2025-10-27 17:44:35,490 - ERROR - Page load timeout for https://openart.ai/workflows/@fish_intent_33/id/yK52jHj7UHxhukLWVu9B
+2025-10-27 17:44:35,491 - INFO - [169/171] Processing: https://openart.ai/workflows/cgpixel_ai_art/transform-your-videos-using-wan-21-ditto/IEdgVxIfvo4urgrlhhIV
+2025-10-27 17:44:45,505 - INFO - Downloaded and saved as workflow_169.json
+2025-10-27 17:44:45,505 - INFO - [170/171] Processing: https://openart.ai/workflows/cls
+2025-10-27 17:45:06,886 - WARNING - Download button not found for https://openart.ai/workflows/cls
+2025-10-27 17:45:06,886 - INFO - [171/171] Processing: https://openart.ai/workflows/civet_flawless_61/flux-kreaipadapter-studio-level-portrait-photography-workflow/80KtqBYLXSvvz1vut6iF
+2025-10-27 17:45:16,701 - INFO - Downloaded and saved as workflow_171.json
+2025-10-27 17:45:16,702 - INFO - Phase 3: Merging JSON files...
+2025-10-27 17:45:16,702 - INFO - Starting JSON file consolidation...
+2025-10-27 17:45:16,704 - INFO - Found 90 JSON files to merge
+2025-10-27 17:45:16,946 - INFO - Merged 90 workflows into workflows_merged.json
+2025-10-27 17:45:16,948 - INFO - 
+============================================================
+2025-10-27 17:45:16,948 - INFO - SCRAPING COMPLETE
+2025-10-27 17:45:16,948 - INFO - ============================================================
+2025-10-27 17:45:16,948 - INFO - Total URLs collected: 171
+2025-10-27 17:45:16,948 - INFO - Successfully downloaded: 90
+2025-10-27 17:45:16,948 - INFO - Failed downloads: 81
+2025-10-27 17:45:16,948 - INFO - Merged workflows: 90
+2025-10-27 17:45:16,948 - INFO - Merged file location: ./workflows_merged.json
+2025-10-27 17:45:16,948 - INFO - 
+Failed URLs:
+2025-10-27 17:45:16,948 - INFO -   - https://openart.ai/workflows/challenges
+2025-10-27 17:45:16,948 - INFO -   - https://openart.ai/workflows/@umbrellabird_rosy_75/id/ajm1EqSMnvEUWRW7ET0F
+2025-10-27 17:45:16,948 - INFO -   - https://openart.ai/workflows/@betterthanyouandyouknowit/id/QdlsJunw09kUJDEL0Wl8
+2025-10-27 17:45:16,948 - INFO -   - https://openart.ai/workflows/@amumu/id/C1n5zNiaSwIkTDQySCY4
+2025-10-27 17:45:16,948 - INFO -   - https://openart.ai/workflows/@risunobushi/id/WACvQIFeIBBMDfy1tKuQ
+2025-10-27 17:45:16,948 - INFO -   - https://openart.ai/workflows/@synergyq/id/wJEy4b1Yi1yqqDB3UPJ4
+2025-10-27 17:45:16,948 - INFO -   - https://openart.ai/workflows/@terrier_alarming_47/id/kFKwd0UUI6CiH8UaUysT
+2025-10-27 17:45:16,948 - INFO -   - https://openart.ai/workflows/@yangbaiwan/id/SlAvsoE1BQQUL3j8uh6w
+2025-10-27 17:45:16,948 - INFO -   - https://openart.ai/workflows/@bracke_enchanting_1/id/EuimM6vMPYcakDlZooII
+2025-10-27 17:45:16,948 - INFO -   - https://openart.ai/workflows/@eel_female_53/id/vgcbtUDX5ZIxF2U5x5x4
+2025-10-27 17:45:16,948 - INFO -   ... and 71 more
+2025-10-27 17:45:17,076 - INFO - WebDriver closed
+2025-10-27 18:02:51,448 - INFO - Starting OpenArt workflow scraper...
+2025-10-27 18:02:52,631 - INFO - WebDriver initialized successfully
+2025-10-27 18:02:52,632 - INFO - Phase 1: Collecting workflow URLs...
+2025-10-27 18:02:52,632 - INFO - Opening https://openart.ai/workflows/all
+2025-10-27 18:03:23,657 - INFO - Collected 75 unique workflow URLs so far...
+2025-10-27 18:03:25,843 - INFO - Collected 75 unique workflow URLs so far...
+2025-10-27 18:03:28,022 - INFO - Collected 75 unique workflow URLs so far...
+2025-10-27 18:03:30,204 - INFO - Collected 75 unique workflow URLs so far...
+2025-10-27 18:03:32,380 - INFO - Collected 75 unique workflow URLs so far...
+2025-10-27 18:03:34,392 - WARNING - No new content after 5 attempts. Stopping scroll.
+2025-10-27 18:03:34,392 - INFO - Total unique workflow URLs collected: 75
+2025-10-27 18:03:34,392 - WARNING - Only found 75 workflows, less than target of 2000
+2025-10-27 18:03:34,392 - INFO - Phase 2: Downloading individual workflows...
+2025-10-27 18:03:34,392 - INFO - [1/75] Processing: https://openart.ai/workflows/deadice/fast-face-swap/M5UHNDg3LDw7KDNvvFql
+2025-10-27 18:03:46,108 - INFO - Downloaded and saved as workflow_1.json
+2025-10-27 18:03:46,109 - INFO - [2/75] Processing: https://openart.ai/workflows/bbs_revenger/take-off-clothes-wan22-i2v/a799LjeO0VdL10vY48UG
+2025-10-27 18:03:54,785 - INFO - Downloaded and saved as workflow_2_1761568434.json
+2025-10-27 18:03:54,786 - INFO - [3/75] Processing: https://openart.ai/workflows/@t8star/id/wNFxXkgT0e22thYeVYPI
+2025-10-27 18:04:12,727 - WARNING - Download button not found for https://openart.ai/workflows/@t8star/id/wNFxXkgT0e22thYeVYPI
+2025-10-27 18:04:12,727 - INFO - [4/75] Processing: https://openart.ai/workflows/@blake/id/qHXI7HMGUFXiVEGErC4w
+2025-10-27 18:04:17,109 - WARNING - Download button not found for https://openart.ai/workflows/@blake/id/qHXI7HMGUFXiVEGErC4w
+2025-10-27 18:04:17,110 - INFO - [5/75] Processing: https://openart.ai/workflows/@cgpixel_ai_art/id/DeMWVGqjMhEj6mu6HQkI
+2025-10-27 18:04:20,331 - WARNING - Download button not found for https://openart.ai/workflows/@cgpixel_ai_art/id/DeMWVGqjMhEj6mu6HQkI
+2025-10-27 18:04:20,331 - INFO - [6/75] Processing: https://openart.ai/workflows/@luisitof/id/DLxIn6crHwopkX7505KP
+2025-10-27 18:04:24,041 - WARNING - Download button not found for https://openart.ai/workflows/@luisitof/id/DLxIn6crHwopkX7505KP
+2025-10-27 18:04:24,041 - INFO - [7/75] Processing: https://openart.ai/workflows/leaderboard
+2025-10-27 18:04:30,261 - WARNING - Download button not found for https://openart.ai/workflows/leaderboard
+2025-10-27 18:04:30,261 - INFO - [8/75] Processing: https://openart.ai/workflows/xuxx/4/0dqZf4uzKCjcPK2XHi4U
+2025-10-27 18:04:40,932 - INFO - Downloaded and saved as workflow_8_1761568480.json
+2025-10-27 18:04:40,933 - INFO - [9/75] Processing: https://openart.ai/workflows/profile/?tab=workflows
+2025-10-27 18:04:44,279 - WARNING - Download button not found for https://openart.ai/workflows/profile/?tab=workflows
+2025-10-27 18:04:44,279 - INFO - [10/75] Processing: https://openart.ai/workflows/@cgtips/id/6p68g6DmcGocK9Gb5bgn
+2025-10-27 18:04:50,190 - WARNING - Download button not found for https://openart.ai/workflows/@cgtips/id/6p68g6DmcGocK9Gb5bgn
+2025-10-27 18:04:50,190 - INFO - [11/75] Processing: https://openart.ai/workflows/elephant_substantial_15/flux_1_kontext_dev_turbo_8steps_dag_lora_colorize/ZM5IDWEs9lsk3Y8PJKOH
+2025-10-27 18:04:58,989 - INFO - Downloaded and saved as workflow_11_1761568498.json
+2025-10-27 18:04:58,990 - INFO - [12/75] Processing: https://openart.ai/workflows/blake/blakes-fast-low-vram-flux-svdquant-int4-upscale-workflow/37bFnlNFNyLOD4DcZ3qu
+2025-10-27 18:05:29,005 - ERROR - Page load timeout for https://openart.ai/workflows/blake/blakes-fast-low-vram-flux-svdquant-int4-upscale-workflow/37bFnlNFNyLOD4DcZ3qu
+2025-10-27 18:05:29,007 - INFO - [13/75] Processing: https://openart.ai/workflows/civet_plush_52/interior-style-design-no-graphics-card-required-fast/KcSX9tLcyqD9Tr3UxYgt
+2025-10-27 18:05:36,698 - INFO - Downloaded and saved as workflow_13.json
+2025-10-27 18:05:36,699 - INFO - [14/75] Processing: https://openart.ai/workflows/beaver_absolute_68/flux-lora-upscaler/Mk8Yz49ROXjkQObezVMp
+2025-10-27 18:05:45,632 - INFO - Downloaded and saved as workflow_14.json
+2025-10-27 18:05:45,633 - INFO - [15/75] Processing: https://openart.ai/workflows/publish
+2025-10-27 18:05:49,473 - WARNING - Download button not found for https://openart.ai/workflows/publish
+2025-10-27 18:05:49,474 - INFO - [16/75] Processing: https://openart.ai/workflows/followings?tab=following
+2025-10-27 18:05:52,563 - WARNING - Download button not found for https://openart.ai/workflows/followings?tab=following
+2025-10-27 18:05:52,563 - INFO - [17/75] Processing: https://openart.ai/workflows/faborohacks/qwen-edit-2509-image-blend/INQfThZQBNpgS9cdGP0T
+2025-10-27 18:06:01,465 - INFO - Downloaded and saved as workflow_17.json
+2025-10-27 18:06:01,465 - INFO - [18/75] Processing: https://openart.ai/workflows/@eel_female_53/id/vgcbtUDX5ZIxF2U5x5x4
+2025-10-27 18:06:04,849 - WARNING - Download button not found for https://openart.ai/workflows/@eel_female_53/id/vgcbtUDX5ZIxF2U5x5x4
+2025-10-27 18:06:04,849 - INFO - [19/75] Processing: https://openart.ai/workflows/civet_flawless_61/posture-migration_qwen_edit_aiov5-dual-decoding-optional-nsfw-support/SZ42Hj3K27bftoYRWS9e
+2025-10-27 18:06:15,447 - INFO - Downloaded and saved as workflow_19_1761568575.json
+2025-10-27 18:06:15,447 - INFO - [20/75] Processing: https://openart.ai/workflows/t8star/-/Iq6psDPSXEc9PPshFxb6
+2025-10-27 18:06:24,353 - INFO - Downloaded and saved as workflow_20_1761568584.json
+2025-10-27 18:06:24,354 - INFO - [21/75] Processing: https://openart.ai/workflows/iahmedabdelnaby/hyper-realistic-face-swap/NHak5yfr3oLLrQMY0Ogc
+2025-10-27 18:06:37,036 - INFO - Downloaded and saved as workflow_21_1761568597.json
+2025-10-27 18:06:37,037 - INFO - [22/75] Processing: https://openart.ai/workflows/@iahmedabdelnaby/id/8AM0hGMpg9zJBB3fUyE7
+2025-10-27 18:06:40,725 - WARNING - Download button not found for https://openart.ai/workflows/@iahmedabdelnaby/id/8AM0hGMpg9zJBB3fUyE7
+2025-10-27 18:06:40,725 - INFO - [23/75] Processing: https://openart.ai/workflows/@benjamin/id/xG80xOX9BGHRTgYuSs9C
+2025-10-27 18:06:46,061 - WARNING - Download button not found for https://openart.ai/workflows/@benjamin/id/xG80xOX9BGHRTgYuSs9C
+2025-10-27 18:06:46,061 - INFO - [24/75] Processing: https://openart.ai/workflows/caiman_growing_47/high-resolution-face-swap/Ix2wwODjESfLWxDe3zO9
+2025-10-27 18:06:55,974 - INFO - Downloaded and saved as workflow_24_1761568615.json
+2025-10-27 18:06:55,975 - INFO - [25/75] Processing: https://openart.ai/workflows/whippet_scratchy_33/mocha-video-character-replacement/mhspE7BK87sr7xhkiT62
+2025-10-27 18:07:04,425 - INFO - Downloaded and saved as workflow_25_1761568624.json
+2025-10-27 18:07:04,426 - INFO - [26/75] Processing: https://openart.ai/workflows/faborohacks/nsfw-infinite-video-with-comfyui-enhanced-version/18AhBtSdF94HkiUROb4P
+2025-10-27 18:07:13,393 - INFO - Downloaded and saved as workflow_26.json
+2025-10-27 18:07:13,394 - INFO - [27/75] Processing: https://openart.ai/workflows/@yangbaiwan/id/SlAvsoE1BQQUL3j8uh6w
+2025-10-27 18:07:16,811 - WARNING - Download button not found for https://openart.ai/workflows/@yangbaiwan/id/SlAvsoE1BQQUL3j8uh6w
+2025-10-27 18:07:16,811 - INFO - [28/75] Processing: https://openart.ai/workflows/@elephant_substantial_15/id/84inITeF0iePdb5FFbyH
+2025-10-27 18:07:20,309 - WARNING - Download button not found for https://openart.ai/workflows/@elephant_substantial_15/id/84inITeF0iePdb5FFbyH
+2025-10-27 18:07:20,309 - INFO - [29/75] Processing: https://openart.ai/workflows/synergyq/flux-hand-fix-inpaint-upscale-workflow/j4hodVm0KiGZw8dnQkMj
+2025-10-27 18:07:32,262 - INFO - Downloaded and saved as workflow_29.json
+2025-10-27 18:07:32,263 - INFO - [30/75] Processing: https://openart.ai/workflows/@camel_ideal_65/id/wjKZ0cDhTKEVhUAFSdj7
+2025-10-27 18:07:35,544 - WARNING - Download button not found for https://openart.ai/workflows/@camel_ideal_65/id/wjKZ0cDhTKEVhUAFSdj7
+2025-10-27 18:07:35,544 - INFO - [31/75] Processing: https://openart.ai/workflows/@civet_flawless_61/id/ebZwVOu5vdomsSYNrhFn
+2025-10-27 18:07:56,003 - WARNING - Download button not found for https://openart.ai/workflows/@civet_flawless_61/id/ebZwVOu5vdomsSYNrhFn
+2025-10-27 18:07:56,003 - INFO - [32/75] Processing: https://openart.ai/workflows/profile/?tab=liked
+2025-10-27 18:07:59,725 - WARNING - Download button not found for https://openart.ai/workflows/profile/?tab=liked
+2025-10-27 18:07:59,725 - INFO - [33/75] Processing: https://openart.ai/workflows/datou/flux1-kontext-dev/sEHyIrzaHy7vSH3G7wq1
+2025-10-27 18:08:16,671 - INFO - Downloaded and saved as workflow_33_1761568696.json
+2025-10-27 18:08:16,672 - INFO - [34/75] Processing: https://openart.ai/workflows/challenges
+2025-10-27 18:08:46,683 - ERROR - Page load timeout for https://openart.ai/workflows/challenges
+2025-10-27 18:08:46,683 - INFO - [35/75] Processing: https://openart.ai/workflows/cls
+2025-10-27 18:09:16,699 - ERROR - Page load timeout for https://openart.ai/workflows/cls
+2025-10-27 18:09:16,699 - INFO - [36/75] Processing: https://openart.ai/workflows/t8star/ltxv098iclorav1/BbTIr5ix0TIfgB49JNsV
+2025-10-27 18:09:25,562 - INFO - Downloaded and saved as workflow_36_1761568765.json
+2025-10-27 18:09:25,563 - INFO - [37/75] Processing: https://openart.ai/workflows/benjamin/nsfw-wan22-14b-red-sexy/KnTGLhoy1sYU7mpSHnXT
+2025-10-27 18:09:59,983 - INFO - Downloaded and saved as workflow_37_1761568799.json
+2025-10-27 18:09:59,984 - INFO - [38/75] Processing: https://openart.ai/workflows/cychenyue/flux-controlnet-upscale/XsEKTG1cvnRXYdsPsQVc
+2025-10-27 18:10:09,122 - INFO - Downloaded and saved as workflow_38.json
+2025-10-27 18:10:09,123 - INFO - [39/75] Processing: https://openart.ai/workflows/@whippet_scratchy_33/id/GlMn7LjBkN0tjceI2uJz
+2025-10-27 18:10:13,139 - WARNING - Download button not found for https://openart.ai/workflows/@whippet_scratchy_33/id/GlMn7LjBkN0tjceI2uJz
+2025-10-27 18:10:13,139 - INFO - [40/75] Processing: https://openart.ai/workflows/templates
+2025-10-27 18:10:17,986 - WARNING - Download button not found for https://openart.ai/workflows/templates
+2025-10-27 18:10:17,987 - INFO - [41/75] Processing: https://openart.ai/workflows/academy
+2025-10-27 18:10:24,731 - WARNING - Download button not found for https://openart.ai/workflows/academy
+2025-10-27 18:10:24,731 - INFO - [42/75] Processing: https://openart.ai/workflows/@beaver_absolute_68/id/Ip6MlCkvuPkO5jYxkSY7
+2025-10-27 18:10:28,194 - WARNING - Download button not found for https://openart.ai/workflows/@beaver_absolute_68/id/Ip6MlCkvuPkO5jYxkSY7
+2025-10-27 18:10:28,194 - INFO - [43/75] Processing: https://openart.ai/workflows/cgtips/comfyui-flux-upscaler-fast-accurate/3yjcUlkaOQ8q8c6Y5ro0
+2025-10-27 18:10:36,399 - INFO - Downloaded and saved as workflow_43_1761568836.json
+2025-10-27 18:10:36,399 - INFO - [44/75] Processing: https://openart.ai/workflows/yangbaiwan/one-click-to-generate-ultraman-funny-type-pictures/X9Hkj8tFheaaP8yXbmCE
+2025-10-27 18:10:44,921 - INFO - Downloaded and saved as workflow_44_1761568844.json
+2025-10-27 18:10:44,922 - INFO - [45/75] Processing: https://openart.ai/workflows/sexygirl/strong-body-impact-super-v2/F9dMZ9JENnBTevO9H97d
+2025-10-27 18:11:17,298 - INFO - Downloaded and saved as workflow_45.json
+2025-10-27 18:11:17,299 - INFO - [46/75] Processing: https://openart.ai/workflows/@bracke_enchanting_1/id/EuimM6vMPYcakDlZooII
+2025-10-27 18:11:20,399 - WARNING - Download button not found for https://openart.ai/workflows/@bracke_enchanting_1/id/EuimM6vMPYcakDlZooII
+2025-10-27 18:11:20,400 - INFO - [47/75] Processing: https://openart.ai/workflows/@synergyq/id/wJEy4b1Yi1yqqDB3UPJ4
+2025-10-27 18:11:25,506 - WARNING - Download button not found for https://openart.ai/workflows/@synergyq/id/wJEy4b1Yi1yqqDB3UPJ4
+2025-10-27 18:11:25,506 - INFO - [48/75] Processing: https://openart.ai/workflows/@grouse_artistic_16/id/pXdTiNKqyEfTEb2Nqfy0
+2025-10-27 18:11:29,550 - WARNING - Download button not found for https://openart.ai/workflows/@grouse_artistic_16/id/pXdTiNKqyEfTEb2Nqfy0
+2025-10-27 18:11:29,550 - INFO - [49/75] Processing: https://openart.ai/workflows/@bbs_revenger/id/aWn271jc5RFU7SQRdM2P
+2025-10-27 18:11:32,804 - WARNING - Download button not found for https://openart.ai/workflows/@bbs_revenger/id/aWn271jc5RFU7SQRdM2P
+2025-10-27 18:11:32,805 - INFO - [50/75] Processing: https://openart.ai/workflows/cgpixel_ai_art/transform-your-videos-using-wan-21-ditto/IEdgVxIfvo4urgrlhhIV
+2025-10-27 18:11:41,550 - INFO - Downloaded and saved as workflow_50_1761568901.json
+2025-10-27 18:11:41,550 - INFO - Progress: 50/75 - Success: 22, Failed: 28
+2025-10-27 18:11:41,551 - INFO - [51/75] Processing: https://openart.ai/workflows/@sexygirl/id/user_32xWIxbcn0NhwqyUq8TueejTzMr
+2025-10-27 18:11:51,367 - WARNING - Download button not found for https://openart.ai/workflows/@sexygirl/id/user_32xWIxbcn0NhwqyUq8TueejTzMr
+2025-10-27 18:11:51,367 - INFO - [52/75] Processing: https://openart.ai/workflows/bracke_enchanting_1/work-fisher-fully-automatic-outfit-change-video-motion-transfer/JJb0fwhEcWHAmluFgL5a
+2025-10-27 18:12:01,100 - INFO - Downloaded and saved as workflow_52.json
+2025-10-27 18:12:01,100 - INFO - [53/75] Processing: https://openart.ai/workflows/rui400/cute-youcreate-your-cartoon-likeness-using-1-photo/2vwb81MasZTJWU7Zko6L
+2025-10-27 18:12:33,712 - INFO - Downloaded and saved as workflow_53_1761568953.json
+2025-10-27 18:12:33,712 - INFO - [54/75] Processing: https://openart.ai/workflows/beaver_absolute_68/jboogx-ultimatelcm-animatediff-vid2vid-workflow/DrlmwkcBsCjUBjdAe5VH
+2025-10-27 18:12:52,399 - INFO - Downloaded and saved as workflow_54.json
+2025-10-27 18:12:52,399 - INFO - [55/75] Processing: https://openart.ai/workflows/aura_111/realistic-image-generation-nsfwsfw-workflow-sdxl-portrait-seductive-glowing/cVlKiRH3vQpGXXZHgXvr
+2025-10-27 18:13:18,040 - INFO - Downloaded and saved as workflow_55_1761568998.json
+2025-10-27 18:13:18,040 - INFO - [56/75] Processing: https://openart.ai/workflows/luisitof/faceswap-instaswap-normal/6BBhmTeDEtR2Hn4ro3Xp
+2025-10-27 18:13:26,592 - INFO - Downloaded and saved as workflow_56.json
+2025-10-27 18:13:26,592 - INFO - [57/75] Processing: https://openart.ai/workflows/@civet_plush_52/id/atwgRjLndY5395AZFffT
+2025-10-27 18:13:29,927 - WARNING - Download button not found for https://openart.ai/workflows/@civet_plush_52/id/atwgRjLndY5395AZFffT
+2025-10-27 18:13:29,927 - INFO - [58/75] Processing: https://openart.ai/workflows/all/spotlight
+2025-10-27 18:13:35,010 - WARNING - Download button not found for https://openart.ai/workflows/all/spotlight
+2025-10-27 18:13:35,010 - INFO - [59/75] Processing: https://openart.ai/workflows/@jerrydavos/id/9xzV0m9x8YdXjKjUgjgY
+2025-10-27 18:13:38,397 - WARNING - Download button not found for https://openart.ai/workflows/@jerrydavos/id/9xzV0m9x8YdXjKjUgjgY
+2025-10-27 18:13:38,397 - INFO - [60/75] Processing: https://openart.ai/workflows/home
+2025-10-27 18:14:26,696 - WARNING - Download timeout for https://openart.ai/workflows/home
+2025-10-27 18:14:26,697 - INFO - [61/75] Processing: https://openart.ai/workflows/@deadice/id/3JlP2DS1jl74A8Gmwt1D
+2025-10-27 18:14:30,125 - WARNING - Download button not found for https://openart.ai/workflows/@deadice/id/3JlP2DS1jl74A8Gmwt1D
+2025-10-27 18:14:30,125 - INFO - [62/75] Processing: https://openart.ai/workflows/@cychenyue/id/ku6c7DYclRdGLeX9CIsa
+2025-10-27 18:15:02,102 - WARNING - Download button not found for https://openart.ai/workflows/@cychenyue/id/ku6c7DYclRdGLeX9CIsa
+2025-10-27 18:15:02,103 - INFO - [63/75] Processing: https://openart.ai/workflows/eel_female_53/qwen-edit-replace-head/GKjsPdjp9C31hDMn5MdV
+2025-10-27 18:15:16,205 - INFO - Downloaded and saved as workflow_63.json
+2025-10-27 18:15:16,206 - INFO - [64/75] Processing: https://openart.ai/workflows/civet_flawless_61/latest-wan-22-animate-infinite-loop-automatic-segmentation-long-video/Y8oBotjovRK3fFg1rIV2
+2025-10-27 18:15:25,854 - INFO - Downloaded and saved as workflow_64.json
+2025-10-27 18:15:25,855 - INFO - [65/75] Processing: https://openart.ai/workflows/@xuxx/id/user_2tVkqJuzw5wKZWGs3k62W2n9XIK
+2025-10-27 18:15:31,509 - WARNING - Download button not found for https://openart.ai/workflows/@xuxx/id/user_2tVkqJuzw5wKZWGs3k62W2n9XIK
+2025-10-27 18:15:31,509 - INFO - [66/75] Processing: https://openart.ai/workflows/grouse_artistic_16/fluxflux-add-detail-realistic-skin/B5rjkxUepbrmeh3e3zIO
+2025-10-27 18:15:45,478 - INFO - Downloaded and saved as workflow_66.json
+2025-10-27 18:15:45,479 - INFO - [67/75] Processing: https://openart.ai/workflows/@faborohacks/id/LV8JwOfLq1iwaXFv71pT
+2025-10-27 18:15:48,621 - WARNING - Download button not found for https://openart.ai/workflows/@faborohacks/id/LV8JwOfLq1iwaXFv71pT
+2025-10-27 18:15:48,621 - INFO - [68/75] Processing: https://openart.ai/workflows/onion/qwen-realistic-12gb/Ca0unnEnC0qIDo791jnB
+2025-10-27 18:15:58,482 - INFO - Downloaded and saved as workflow_68_1761569158.json
+2025-10-27 18:15:58,482 - INFO - [69/75] Processing: https://openart.ai/workflows/@onion/id/rBg0ePF3BLUqr4QolcqX
+2025-10-27 18:16:04,077 - WARNING - Download button not found for https://openart.ai/workflows/@onion/id/rBg0ePF3BLUqr4QolcqX
+2025-10-27 18:16:04,077 - INFO - [70/75] Processing: https://openart.ai/workflows/@aura_111/id/KI4RhHdhxR4PecDcfnpI
+2025-10-27 18:16:08,154 - WARNING - Download button not found for https://openart.ai/workflows/@aura_111/id/KI4RhHdhxR4PecDcfnpI
+2025-10-27 18:16:08,154 - INFO - [71/75] Processing: https://openart.ai/workflows/@caiman_growing_47/id/lWPUz1PZXEZbfxIj2CMP
+2025-10-27 18:16:12,096 - WARNING - Download button not found for https://openart.ai/workflows/@caiman_growing_47/id/lWPUz1PZXEZbfxIj2CMP
+2025-10-27 18:16:12,096 - INFO - [72/75] Processing: https://openart.ai/workflows/@rui400/id/MOsZBUmh14mRk71paQfu
+2025-10-27 18:16:15,974 - WARNING - Download button not found for https://openart.ai/workflows/@rui400/id/MOsZBUmh14mRk71paQfu
+2025-10-27 18:16:15,974 - INFO - [73/75] Processing: https://openart.ai/workflows/@datou/id/i0Fw5vnAPfyXOXA92IIF
+2025-10-27 18:16:30,500 - WARNING - Download button not found for https://openart.ai/workflows/@datou/id/i0Fw5vnAPfyXOXA92IIF
+2025-10-27 18:16:30,500 - INFO - [74/75] Processing: https://openart.ai/workflows/camel_ideal_65/wan22_sexy_video_t2v/ZR3ObTNdPk8O78nP5X2M
+2025-10-27 18:16:39,323 - INFO - Downloaded and saved as workflow_74.json
+2025-10-27 18:16:39,323 - INFO - [75/75] Processing: https://openart.ai/workflows/jerrydavos/v30-animatediff-refiner/BThNnFCE4JFQAu0nbax6
+2025-10-27 18:16:47,548 - INFO - Downloaded and saved as workflow_75.json
+2025-10-27 18:16:47,549 - INFO - Phase 3: Merging JSON files...
+2025-10-27 18:16:47,550 - INFO - Starting JSON file consolidation...
+2025-10-27 18:16:47,552 - INFO - Found 123 JSON files to merge
+2025-10-27 18:16:47,957 - INFO - Merged 123 workflows into workflows_merged.json
+2025-10-27 18:16:47,961 - INFO - 
+============================================================
+2025-10-27 18:16:47,961 - INFO - SCRAPING COMPLETE
+2025-10-27 18:16:47,961 - INFO - ============================================================
+2025-10-27 18:16:47,961 - INFO - Total URLs collected: 75
+2025-10-27 18:16:47,961 - INFO - Successfully downloaded: 33
+2025-10-27 18:16:47,961 - INFO - Failed downloads: 42
+2025-10-27 18:16:47,961 - INFO - Merged workflows: 123
+2025-10-27 18:16:47,961 - INFO - Merged file location: ./workflows_merged.json
+2025-10-27 18:16:47,961 - INFO - 
+Failed URLs:
+2025-10-27 18:16:47,961 - INFO -   - https://openart.ai/workflows/@t8star/id/wNFxXkgT0e22thYeVYPI
+2025-10-27 18:16:47,961 - INFO -   - https://openart.ai/workflows/@blake/id/qHXI7HMGUFXiVEGErC4w
+2025-10-27 18:16:47,961 - INFO -   - https://openart.ai/workflows/@cgpixel_ai_art/id/DeMWVGqjMhEj6mu6HQkI
+2025-10-27 18:16:47,961 - INFO -   - https://openart.ai/workflows/@luisitof/id/DLxIn6crHwopkX7505KP
+2025-10-27 18:16:47,961 - INFO -   - https://openart.ai/workflows/leaderboard
+2025-10-27 18:16:47,961 - INFO -   - https://openart.ai/workflows/profile/?tab=workflows
+2025-10-27 18:16:47,961 - INFO -   - https://openart.ai/workflows/@cgtips/id/6p68g6DmcGocK9Gb5bgn
+2025-10-27 18:16:47,961 - INFO -   - https://openart.ai/workflows/blake/blakes-fast-low-vram-flux-svdquant-int4-upscale-workflow/37bFnlNFNyLOD4DcZ3qu
+2025-10-27 18:16:47,961 - INFO -   - https://openart.ai/workflows/publish
+2025-10-27 18:16:47,961 - INFO -   - https://openart.ai/workflows/followings?tab=following
+2025-10-27 18:16:47,961 - INFO -   ... and 32 more
+2025-10-27 18:16:48,063 - INFO - WebDriver closed
+2025-10-27 18:22:40,005 - INFO - Starting OpenArt workflow scraper...
+2025-10-27 18:22:44,178 - INFO - WebDriver initialized successfully
+2025-10-27 18:22:44,178 - INFO - Phase 1: Collecting workflow URLs...
+2025-10-27 18:22:44,179 - INFO - Opening https://openart.ai/workflows/all
+2025-10-27 18:23:11,764 - INFO - Collected 72 unique workflow URLs so far...
+2025-10-27 18:23:13,935 - INFO - Collected 72 unique workflow URLs so far...
+2025-10-27 18:23:16,110 - INFO - Collected 72 unique workflow URLs so far...
+2025-10-27 18:23:18,280 - INFO - Collected 72 unique workflow URLs so far...
+2025-10-27 18:23:20,449 - INFO - Collected 72 unique workflow URLs so far...
+2025-10-27 18:23:22,458 - WARNING - No new content after 5 attempts. Stopping scroll.
+2025-10-27 18:23:22,458 - INFO - Total unique workflow URLs collected: 72
+2025-10-27 18:23:22,459 - WARNING - Only found 72 workflows, less than target of 2000
+2025-10-27 18:23:22,459 - INFO - Phase 2: Downloading individual workflows...
+2025-10-27 18:23:22,459 - INFO - [1/72] Processing: https://openart.ai/workflows/iahmedabdelnaby/hyper-realistic-face-swap/NHak5yfr3oLLrQMY0Ogc
+2025-10-27 18:23:33,830 - INFO - Downloaded and saved as workflow_1_1761569613.json
+2025-10-27 18:23:33,831 - INFO - [2/72] Processing: https://openart.ai/workflows/@onion/id/rBg0ePF3BLUqr4QolcqX
+2025-10-27 18:23:39,019 - WARNING - Download button not found for https://openart.ai/workflows/@onion/id/rBg0ePF3BLUqr4QolcqX
+2025-10-27 18:23:39,019 - INFO - [3/72] Processing: https://openart.ai/workflows/@terrier_hairy_84/id/zd2VKj5kne3sxjajV8xd
+2025-10-27 18:23:42,158 - WARNING - Download button not found for https://openart.ai/workflows/@terrier_hairy_84/id/zd2VKj5kne3sxjajV8xd
+2025-10-27 18:23:42,158 - INFO - [4/72] Processing: https://openart.ai/workflows/home
+2025-10-27 18:24:22,879 - WARNING - Download timeout for https://openart.ai/workflows/home
+2025-10-27 18:24:22,880 - INFO - [5/72] Processing: https://openart.ai/workflows/aura_111/realistic-image-generation-nsfwsfw-workflow-sdxl-portrait-seductive/8mL9pfmwrPkZWtuyTS06
+2025-10-27 18:24:39,937 - INFO - Downloaded and saved as workflow_5_1761569679.json
+2025-10-27 18:24:39,939 - INFO - [6/72] Processing: https://openart.ai/workflows/faborohacks/nsfw-infinite-video-with-comfyui-enhanced-version/18AhBtSdF94HkiUROb4P
+2025-10-27 18:24:48,771 - INFO - Downloaded and saved as workflow_6_1761569688.json
+2025-10-27 18:24:48,772 - INFO - [7/72] Processing: https://openart.ai/workflows/fish_intent_33/changing-materials-multiple-interior-images/Fig9bsXm9KwvbGzuLb3B
+2025-10-27 18:24:58,494 - INFO - Downloaded and saved as workflow_7_1761569698.json
+2025-10-27 18:24:58,495 - INFO - [8/72] Processing: https://openart.ai/workflows/beaver_absolute_68/flux-lora-upscaler/Mk8Yz49ROXjkQObezVMp
+2025-10-27 18:25:07,225 - INFO - Downloaded and saved as workflow_8_1761569707.json
+2025-10-27 18:25:07,225 - INFO - [9/72] Processing: https://openart.ai/workflows/@shark_kindly_31/id/l1cda2C2zGAJUMbC6kNI
+2025-10-27 18:25:11,134 - WARNING - Download button not found for https://openart.ai/workflows/@shark_kindly_31/id/l1cda2C2zGAJUMbC6kNI
+2025-10-27 18:25:11,134 - INFO - [10/72] Processing: https://openart.ai/workflows/leaderboard
+2025-10-27 18:25:18,517 - WARNING - Download button not found for https://openart.ai/workflows/leaderboard
+2025-10-27 18:25:18,517 - INFO - [11/72] Processing: https://openart.ai/workflows/@fish_intent_33/id/yK52jHj7UHxhukLWVu9B
+2025-10-27 18:25:48,529 - ERROR - Page load timeout for https://openart.ai/workflows/@fish_intent_33/id/yK52jHj7UHxhukLWVu9B
+2025-10-27 18:25:48,529 - INFO - [12/72] Processing: https://openart.ai/workflows/fish_intent_33/longerfantasytalking/9NAl0y67zMhl4EW8sexa
+2025-10-27 18:26:09,267 - INFO - Downloaded and saved as workflow_12_1761569769.json
+2025-10-27 18:26:09,268 - INFO - [13/72] Processing: https://openart.ai/workflows/terrier_alarming_47/simple-sdxl-workflow/ISANAbhWZedHWFx7tBYX
+2025-10-27 18:26:17,769 - INFO - Downloaded and saved as workflow_13_1761569777.json
+2025-10-27 18:26:17,770 - INFO - [14/72] Processing: https://openart.ai/workflows/yangbaiwan/one-click-to-generate-ultraman-funny-type-pictures/X9Hkj8tFheaaP8yXbmCE
+2025-10-27 18:26:26,214 - INFO - Downloaded and saved as workflow_14_1761569786.json
+2025-10-27 18:26:26,214 - INFO - [15/72] Processing: https://openart.ai/workflows/followings?tab=following
+2025-10-27 18:26:29,572 - WARNING - Download button not found for https://openart.ai/workflows/followings?tab=following
+2025-10-27 18:26:29,573 - INFO - [16/72] Processing: https://openart.ai/workflows/onion/qwen-realistic-12gb/Ca0unnEnC0qIDo791jnB
+2025-10-27 18:26:40,957 - INFO - Downloaded and saved as workflow_16_1761569800.json
+2025-10-27 18:26:40,957 - INFO - [17/72] Processing: https://openart.ai/workflows/civet_flawless_61/flux-kreaipadapter-studio-level-portrait-photography-workflow/80KtqBYLXSvvz1vut6iF
+2025-10-27 18:26:49,809 - INFO - Downloaded and saved as workflow_17_1761569809.json
+2025-10-27 18:26:49,811 - INFO - [18/72] Processing: https://openart.ai/workflows/@datou/id/i0Fw5vnAPfyXOXA92IIF
+2025-10-27 18:26:52,963 - WARNING - Download button not found for https://openart.ai/workflows/@datou/id/i0Fw5vnAPfyXOXA92IIF
+2025-10-27 18:26:52,963 - INFO - [19/72] Processing: https://openart.ai/workflows/datou/flux1-kontext-dev/sEHyIrzaHy7vSH3G7wq1
+2025-10-27 18:27:14,987 - INFO - Downloaded and saved as workflow_19_1761569834.json
+2025-10-27 18:27:14,987 - INFO - [20/72] Processing: https://openart.ai/workflows/beaver_absolute_68/jboogx-ultimatelcm-animatediff-vid2vid-workflow/DrlmwkcBsCjUBjdAe5VH
+2025-10-27 18:27:25,690 - INFO - Downloaded and saved as workflow_20_1761569845.json
+2025-10-27 18:27:25,691 - INFO - [21/72] Processing: https://openart.ai/workflows/@bbs_revenger/id/aWn271jc5RFU7SQRdM2P
+2025-10-27 18:27:34,772 - WARNING - Download button not found for https://openart.ai/workflows/@bbs_revenger/id/aWn271jc5RFU7SQRdM2P
+2025-10-27 18:27:34,772 - INFO - [22/72] Processing: https://openart.ai/workflows/@camel_ideal_65/id/wjKZ0cDhTKEVhUAFSdj7
+2025-10-27 18:27:38,508 - WARNING - Download button not found for https://openart.ai/workflows/@camel_ideal_65/id/wjKZ0cDhTKEVhUAFSdj7
+2025-10-27 18:27:38,508 - INFO - [23/72] Processing: https://openart.ai/workflows/whippet_scratchy_33/mocha-video-character-replacement/mhspE7BK87sr7xhkiT62
+2025-10-27 18:27:46,996 - INFO - Downloaded and saved as workflow_23_1761569866.json
+2025-10-27 18:27:46,996 - INFO - [24/72] Processing: https://openart.ai/workflows/caiman_growing_47/high-resolution-face-swap/Ix2wwODjESfLWxDe3zO9
+2025-10-27 18:27:55,833 - INFO - Downloaded and saved as workflow_24_1761569875.json
+2025-10-27 18:27:55,834 - INFO - [25/72] Processing: https://openart.ai/workflows/@turkey_reasonable_72/id/Kscn7pfIsOfkzxpFLLkt
+2025-10-27 18:27:59,309 - WARNING - Download button not found for https://openart.ai/workflows/@turkey_reasonable_72/id/Kscn7pfIsOfkzxpFLLkt
+2025-10-27 18:27:59,309 - INFO - [26/72] Processing: https://openart.ai/workflows/cychenyue/flux-controlnet-upscale/XsEKTG1cvnRXYdsPsQVc
+2025-10-27 18:28:07,181 - INFO - Downloaded and saved as workflow_26_1761569887.json
+2025-10-27 18:28:07,181 - INFO - [27/72] Processing: https://openart.ai/workflows/faborohacks/qwen-edit-2509-backgroud-change/7cqYJqpBteinjaK3IyXt
+2025-10-27 18:28:15,908 - INFO - Downloaded and saved as workflow_27_1761569895.json
+2025-10-27 18:28:15,909 - INFO - [28/72] Processing: https://openart.ai/workflows/zentrocdot/sd-face-fixer-4-pass/JckZ3ZItFVhpF1AAkMDi
+2025-10-27 18:28:45,917 - ERROR - Page load timeout for https://openart.ai/workflows/zentrocdot/sd-face-fixer-4-pass/JckZ3ZItFVhpF1AAkMDi
+2025-10-27 18:28:45,917 - INFO - [29/72] Processing: https://openart.ai/workflows/@elephant_substantial_15/id/84inITeF0iePdb5FFbyH
+2025-10-27 18:28:50,116 - WARNING - Download button not found for https://openart.ai/workflows/@elephant_substantial_15/id/84inITeF0iePdb5FFbyH
+2025-10-27 18:28:50,117 - INFO - [30/72] Processing: https://openart.ai/workflows/@sexygirl/id/user_32xWIxbcn0NhwqyUq8TueejTzMr
+2025-10-27 18:28:53,988 - WARNING - Download button not found for https://openart.ai/workflows/@sexygirl/id/user_32xWIxbcn0NhwqyUq8TueejTzMr
+2025-10-27 18:28:53,988 - INFO - [31/72] Processing: https://openart.ai/workflows/bracke_enchanting_1/work-fisher-fully-automatic-outfit-change-video-motion-transfer/JJb0fwhEcWHAmluFgL5a
+2025-10-27 18:29:03,071 - INFO - Downloaded and saved as workflow_31.json
+2025-10-27 18:29:03,071 - INFO - [32/72] Processing: https://openart.ai/workflows/elephant_substantial_15/flux_1_kontext_dev_turbo_8steps_dag_lora_colorize/ZM5IDWEs9lsk3Y8PJKOH
+2025-10-27 18:29:11,326 - INFO - Downloaded and saved as workflow_32_1761569951.json
+2025-10-27 18:29:11,327 - INFO - [33/72] Processing: https://openart.ai/workflows/@eel_female_53/id/vgcbtUDX5ZIxF2U5x5x4
+2025-10-27 18:29:14,521 - WARNING - Download button not found for https://openart.ai/workflows/@eel_female_53/id/vgcbtUDX5ZIxF2U5x5x4
+2025-10-27 18:29:14,521 - INFO - [34/72] Processing: https://openart.ai/workflows/cgpixel_ai_art/transform-your-videos-using-wan-21-ditto/IEdgVxIfvo4urgrlhhIV
+2025-10-27 18:29:23,152 - INFO - Downloaded and saved as workflow_34.json
+2025-10-27 18:29:23,152 - INFO - [35/72] Processing: https://openart.ai/workflows/templates
+2025-10-27 18:29:28,538 - WARNING - Download button not found for https://openart.ai/workflows/templates
+2025-10-27 18:29:28,538 - INFO - [36/72] Processing: https://openart.ai/workflows/@civet_flawless_61/id/ebZwVOu5vdomsSYNrhFn
+2025-10-27 18:29:44,705 - WARNING - Download button not found for https://openart.ai/workflows/@civet_flawless_61/id/ebZwVOu5vdomsSYNrhFn
+2025-10-27 18:29:44,705 - INFO - [37/72] Processing: https://openart.ai/workflows/academy
+2025-10-27 18:29:54,804 - WARNING - Download button not found for https://openart.ai/workflows/academy
+2025-10-27 18:29:54,805 - INFO - [38/72] Processing: https://openart.ai/workflows/@cgpixel_ai_art/id/DeMWVGqjMhEj6mu6HQkI
+2025-10-27 18:29:58,224 - WARNING - Download button not found for https://openart.ai/workflows/@cgpixel_ai_art/id/DeMWVGqjMhEj6mu6HQkI
+2025-10-27 18:29:58,224 - INFO - [39/72] Processing: https://openart.ai/workflows/@caiman_growing_47/id/lWPUz1PZXEZbfxIj2CMP
+2025-10-27 18:30:01,427 - WARNING - Download button not found for https://openart.ai/workflows/@caiman_growing_47/id/lWPUz1PZXEZbfxIj2CMP
+2025-10-27 18:30:01,427 - INFO - [40/72] Processing: https://openart.ai/workflows/all/spotlight
+2025-10-27 18:30:04,424 - WARNING - Download button not found for https://openart.ai/workflows/all/spotlight
+2025-10-27 18:30:04,424 - INFO - [41/72] Processing: https://openart.ai/workflows/@benjamin/id/xG80xOX9BGHRTgYuSs9C
+2025-10-27 18:30:08,087 - WARNING - Download button not found for https://openart.ai/workflows/@benjamin/id/xG80xOX9BGHRTgYuSs9C
+2025-10-27 18:30:08,087 - INFO - [42/72] Processing: https://openart.ai/workflows/@t8star/id/wNFxXkgT0e22thYeVYPI
+2025-10-27 18:30:17,557 - WARNING - Download button not found for https://openart.ai/workflows/@t8star/id/wNFxXkgT0e22thYeVYPI
+2025-10-27 18:30:17,557 - INFO - [43/72] Processing: https://openart.ai/workflows/shark_kindly_31/-/Cc8rIMCkMtIe9jEApXXY
+2025-10-27 18:30:25,547 - INFO - Downloaded and saved as workflow_43_1761570025.json
+2025-10-27 18:30:25,547 - INFO - [44/72] Processing: https://openart.ai/workflows/camel_ideal_65/wan22_sexy_video_t2v/ZR3ObTNdPk8O78nP5X2M
+2025-10-27 18:30:33,644 - INFO - Downloaded and saved as workflow_44_1761570033.json
+2025-10-27 18:30:33,644 - INFO - [45/72] Processing: https://openart.ai/workflows/@beaver_absolute_68/id/Ip6MlCkvuPkO5jYxkSY7
+2025-10-27 18:30:37,037 - WARNING - Download button not found for https://openart.ai/workflows/@beaver_absolute_68/id/Ip6MlCkvuPkO5jYxkSY7
+2025-10-27 18:30:37,038 - INFO - [46/72] Processing: https://openart.ai/workflows/@iahmedabdelnaby/id/8AM0hGMpg9zJBB3fUyE7
+2025-10-27 18:30:40,239 - WARNING - Download button not found for https://openart.ai/workflows/@iahmedabdelnaby/id/8AM0hGMpg9zJBB3fUyE7
+2025-10-27 18:30:40,239 - INFO - [47/72] Processing: https://openart.ai/workflows/@terrier_alarming_47/id/kFKwd0UUI6CiH8UaUysT
+2025-10-27 18:30:43,547 - WARNING - Download button not found for https://openart.ai/workflows/@terrier_alarming_47/id/kFKwd0UUI6CiH8UaUysT
+2025-10-27 18:30:43,547 - INFO - [48/72] Processing: https://openart.ai/workflows/@synergyq/id/wJEy4b1Yi1yqqDB3UPJ4
+2025-10-27 18:30:46,733 - WARNING - Download button not found for https://openart.ai/workflows/@synergyq/id/wJEy4b1Yi1yqqDB3UPJ4
+2025-10-27 18:30:46,734 - INFO - [49/72] Processing: https://openart.ai/workflows/civet_flawless_61/latest-wan-22-animate-infinite-loop-automatic-segmentation-long-video/Y8oBotjovRK3fFg1rIV2
+2025-10-27 18:30:55,839 - INFO - Downloaded and saved as workflow_49_1761570055.json
+2025-10-27 18:30:55,841 - INFO - [50/72] Processing: https://openart.ai/workflows/profile/?tab=workflows
+2025-10-27 18:31:00,161 - WARNING - Download button not found for https://openart.ai/workflows/profile/?tab=workflows
+2025-10-27 18:31:00,161 - INFO - Progress: 50/72 - Success: 22, Failed: 28
+2025-10-27 18:31:00,161 - INFO - [51/72] Processing: https://openart.ai/workflows/terrier_hairy_84/interior-design-workflow/GoUHms2gxpH8r3vTfuDd
+2025-10-27 18:31:09,240 - INFO - Downloaded and saved as workflow_51.json
+2025-10-27 18:31:09,240 - INFO - [52/72] Processing: https://openart.ai/workflows/faborohacks/qwen-edit-2509-image-blend/INQfThZQBNpgS9cdGP0T
+2025-10-27 18:31:19,066 - INFO - Downloaded and saved as workflow_52_1761570079.json
+2025-10-27 18:31:19,067 - INFO - [53/72] Processing: https://openart.ai/workflows/@yangbaiwan/id/SlAvsoE1BQQUL3j8uh6w
+2025-10-27 18:31:22,863 - WARNING - Download button not found for https://openart.ai/workflows/@yangbaiwan/id/SlAvsoE1BQQUL3j8uh6w
+2025-10-27 18:31:22,863 - INFO - [54/72] Processing: https://openart.ai/workflows/sexygirl/strong-body-impact-super-v2/F9dMZ9JENnBTevO9H97d
+2025-10-27 18:31:46,535 - INFO - Downloaded and saved as workflow_54_1761570106.json
+2025-10-27 18:31:46,536 - INFO - [55/72] Processing: https://openart.ai/workflows/@aura_111/id/KI4RhHdhxR4PecDcfnpI
+2025-10-27 18:31:52,182 - WARNING - Download button not found for https://openart.ai/workflows/@aura_111/id/KI4RhHdhxR4PecDcfnpI
+2025-10-27 18:31:52,182 - INFO - [56/72] Processing: https://openart.ai/workflows/aura_111/realistic-image-generation-nsfwsfw-workflow-sdxl-portrait-seductive-glowing/cVlKiRH3vQpGXXZHgXvr
+2025-10-27 18:32:19,666 - INFO - Downloaded and saved as workflow_56_1761570139.json
+2025-10-27 18:32:19,667 - INFO - [57/72] Processing: https://openart.ai/workflows/challenges
+2025-10-27 18:32:49,672 - ERROR - Page load timeout for https://openart.ai/workflows/challenges
+2025-10-27 18:32:49,673 - INFO - [58/72] Processing: https://openart.ai/workflows/@zentrocdot/id/n4Tc89bOdQ7J7cuy79EV
+2025-10-27 18:32:55,367 - WARNING - Download button not found for https://openart.ai/workflows/@zentrocdot/id/n4Tc89bOdQ7J7cuy79EV
+2025-10-27 18:32:55,367 - INFO - [59/72] Processing: https://openart.ai/workflows/@cychenyue/id/ku6c7DYclRdGLeX9CIsa
+2025-10-27 18:33:25,373 - ERROR - Page load timeout for https://openart.ai/workflows/@cychenyue/id/ku6c7DYclRdGLeX9CIsa
+2025-10-27 18:33:25,374 - INFO - [60/72] Processing: https://openart.ai/workflows/@whippet_scratchy_33/id/GlMn7LjBkN0tjceI2uJz
+2025-10-27 18:33:29,254 - WARNING - Download button not found for https://openart.ai/workflows/@whippet_scratchy_33/id/GlMn7LjBkN0tjceI2uJz
+2025-10-27 18:33:29,255 - INFO - [61/72] Processing: https://openart.ai/workflows/eel_female_53/qwen-edit-replace-head/GKjsPdjp9C31hDMn5MdV
+2025-10-27 18:33:41,551 - INFO - Downloaded and saved as workflow_61_1761570221.json
+2025-10-27 18:33:41,552 - INFO - [62/72] Processing: https://openart.ai/workflows/bbs_revenger/take-off-clothes-wan22-i2v/a799LjeO0VdL10vY48UG
+2025-10-27 18:33:49,844 - INFO - Downloaded and saved as workflow_62_1761570229.json
+2025-10-27 18:33:49,845 - INFO - [63/72] Processing: https://openart.ai/workflows/@bracke_enchanting_1/id/EuimM6vMPYcakDlZooII
+2025-10-27 18:34:04,156 - WARNING - Download button not found for https://openart.ai/workflows/@bracke_enchanting_1/id/EuimM6vMPYcakDlZooII
+2025-10-27 18:34:04,156 - INFO - [64/72] Processing: https://openart.ai/workflows/civet_flawless_61/posture-migration_qwen_edit_aiov5-dual-decoding-optional-nsfw-support/SZ42Hj3K27bftoYRWS9e
+2025-10-27 18:34:12,705 - INFO - Downloaded and saved as workflow_64_1761570252.json
+2025-10-27 18:34:12,705 - INFO - [65/72] Processing: https://openart.ai/workflows/cls
+2025-10-27 18:34:42,716 - ERROR - Page load timeout for https://openart.ai/workflows/cls
+2025-10-27 18:34:42,717 - INFO - [66/72] Processing: https://openart.ai/workflows/synergyq/flux-hand-fix-inpaint-upscale-workflow/j4hodVm0KiGZw8dnQkMj
+2025-10-27 18:34:55,099 - INFO - Downloaded and saved as workflow_66_1761570295.json
+2025-10-27 18:34:55,101 - INFO - [67/72] Processing: https://openart.ai/workflows/turkey_reasonable_72/superfast_image_upscale_for_regular_photos/9Gov4jl2k42MM6798iLx
+2025-10-27 18:35:06,341 - INFO - Downloaded and saved as workflow_67.json
+2025-10-27 18:35:06,341 - INFO - [68/72] Processing: https://openart.ai/workflows/publish
+2025-10-27 18:35:11,101 - WARNING - Download button not found for https://openart.ai/workflows/publish
+2025-10-27 18:35:11,101 - INFO - [69/72] Processing: https://openart.ai/workflows/profile/?tab=liked
+2025-10-27 18:35:14,992 - WARNING - Download button not found for https://openart.ai/workflows/profile/?tab=liked
+2025-10-27 18:35:14,992 - INFO - [70/72] Processing: https://openart.ai/workflows/benjamin/nsfw-wan22-14b-red-sexy/KnTGLhoy1sYU7mpSHnXT
+2025-10-27 18:35:49,136 - INFO - Downloaded and saved as workflow_70_1761570349.json
+2025-10-27 18:35:49,136 - INFO - [71/72] Processing: https://openart.ai/workflows/t8star/-/Iq6psDPSXEc9PPshFxb6
+2025-10-27 18:35:57,036 - INFO - Downloaded and saved as workflow_71.json
+2025-10-27 18:35:57,037 - INFO - [72/72] Processing: https://openart.ai/workflows/@faborohacks/id/LV8JwOfLq1iwaXFv71pT
+2025-10-27 18:36:04,241 - WARNING - Download button not found for https://openart.ai/workflows/@faborohacks/id/LV8JwOfLq1iwaXFv71pT
+2025-10-27 18:36:04,241 - INFO - Phase 3: Merging JSON files...
+2025-10-27 18:36:04,241 - INFO - Starting JSON file consolidation...
+2025-10-27 18:36:04,242 - INFO - Found 156 JSON files to merge
+2025-10-27 18:36:04,745 - INFO - Merged 156 workflows into workflows_merged.json
+2025-10-27 18:36:04,751 - INFO - 
+============================================================
+2025-10-27 18:36:04,751 - INFO - SCRAPING COMPLETE
+2025-10-27 18:36:04,751 - INFO - ============================================================
+2025-10-27 18:36:04,751 - INFO - Total URLs collected: 72
+2025-10-27 18:36:04,751 - INFO - Successfully downloaded: 33
+2025-10-27 18:36:04,751 - INFO - Failed downloads: 39
+2025-10-27 18:36:04,751 - INFO - Merged workflows: 156
+2025-10-27 18:36:04,751 - INFO - Merged file location: ./workflows_merged.json
+2025-10-27 18:36:04,751 - INFO - 
+Failed URLs:
+2025-10-27 18:36:04,751 - INFO -   - https://openart.ai/workflows/@onion/id/rBg0ePF3BLUqr4QolcqX
+2025-10-27 18:36:04,751 - INFO -   - https://openart.ai/workflows/@terrier_hairy_84/id/zd2VKj5kne3sxjajV8xd
+2025-10-27 18:36:04,751 - INFO -   - https://openart.ai/workflows/home
+2025-10-27 18:36:04,751 - INFO -   - https://openart.ai/workflows/@shark_kindly_31/id/l1cda2C2zGAJUMbC6kNI
+2025-10-27 18:36:04,751 - INFO -   - https://openart.ai/workflows/leaderboard
+2025-10-27 18:36:04,751 - INFO -   - https://openart.ai/workflows/@fish_intent_33/id/yK52jHj7UHxhukLWVu9B
+2025-10-27 18:36:04,751 - INFO -   - https://openart.ai/workflows/followings?tab=following
+2025-10-27 18:36:04,751 - INFO -   - https://openart.ai/workflows/@datou/id/i0Fw5vnAPfyXOXA92IIF
+2025-10-27 18:36:04,751 - INFO -   - https://openart.ai/workflows/@bbs_revenger/id/aWn271jc5RFU7SQRdM2P
+2025-10-27 18:36:04,751 - INFO -   - https://openart.ai/workflows/@camel_ideal_65/id/wjKZ0cDhTKEVhUAFSdj7
+2025-10-27 18:36:04,751 - INFO -   ... and 29 more
+2025-10-27 18:36:04,859 - INFO - WebDriver closed
